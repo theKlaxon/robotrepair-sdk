@@ -1,0 +1,12 @@
+﻿cl : command line  warning D9002: ignoring unknown option '/arch:SSE2'
+  interfaces.cpp
+E:\theKlaxon\robotrepair-sdk\src\public\interfaces\interfaces.h(153,28): warning C4091: 'extern ': ignored on left of 'ISource2Client' when no variable is declared
+  (compiling source file 'interfaces.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\interfaces\interfaces.h(154,34): warning C4091: 'extern ': ignored on left of 'ISource2ClientConfig' when no variable is declared
+  (compiling source file 'interfaces.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\interfaces\interfaces.h(155,26): warning C4091: 'extern ': ignored on left of 'IPrediction2' when no variable is declared
+  (compiling source file 'interfaces.cpp')
+  
+  interfaces.vcxproj -> E:\theKlaxon\robotrepair-sdk\src\lib\public\interfaces.lib

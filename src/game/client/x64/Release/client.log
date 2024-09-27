@@ -1,0 +1,241 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : Command line warning D9030: '/Yc' is incompatible with multiprocessing; ignoring /MP switch
+  cbase.cpp
+  prediction2.cpp
+e:\source2\robotrepair-sdk\src\public\interfaces\interfaces.h(153): warning C4091: 'extern ': ignored on left of 'ISource2Client' when no variable is declared
+e:\source2\robotrepair-sdk\src\public\interfaces\interfaces.h(154): warning C4091: 'extern ': ignored on left of 'ISource2ClientConfig' when no variable is declared
+e:\source2\robotrepair-sdk\src\public\interfaces\interfaces.h(155): warning C4091: 'extern ': ignored on left of 'IPrediction2' when no variable is declared
+e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(54): warning C4100: 'pInterfaceName': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(54): warning C4100: 'factory': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(60): warning C4584: 'CBaseAppSystem<IPrediction2>': base-class 'IAppSystem' is already a base-class of 'IPrediction2'
+  e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(42): note: see declaration of 'IAppSystem'
+  e:\source2\robotrepair-sdk\src\public\game\client\isource2_clientprediction.h(7): note: see declaration of 'IPrediction2'
+  e:\source2\robotrepair-sdk\src\game\client\prediction2.h(4): note: see reference to class template instantiation 'CBaseAppSystem<IPrediction2>' being compiled
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(14): warning C4100: 'outgoing_command': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(14): warning C4100: 'incoming_acknowledged': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(14): warning C4100: 'validframe': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(14): warning C4100: 'startframe': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(15): warning C4100: 'current_world_update_packet': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(15): warning C4100: 'commands_acknowledged': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(15): warning C4100: 'pSlot': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(16): warning C4100: 'pSlot': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(17): warning C4100: 'pSlot': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(18): warning C4100: 'commands_acknowledged': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(18): warning C4100: 'pSlot': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(21): warning C4100: 'org': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(21): warning C4100: 'pSlot': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(22): warning C4100: 'ang': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(22): warning C4100: 'pSlot': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(23): warning C4100: 'ang': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(23): warning C4100: 'org': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(23): warning C4100: 'pSlot': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(24): warning C4100: 'ang': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(24): warning C4100: 'pSlot': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(25): warning C4100: 'ang': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(25): warning C4100: 'pSlot': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(32): warning C4100: 'frametime': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(32): warning C4100: 'pPlayer': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(33): warning C4100: 'pMoveHelper': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(33): warning C4100: 'pCmd': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(33): warning C4100: 'pPlayer': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(34): warning C4100: 'pMoveData': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(34): warning C4100: 'pMoveHelper': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(34): warning C4100: 'pCmd': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(34): warning C4100: 'pPlayer': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(35): warning C4100: 'move': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(35): warning C4100: 'pCmd': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(35): warning C4100: 'pPlayer': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(37): warning C4100: 'commands_acknowledged': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(37): warning C4100: 'pPlayer': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(37): warning C4100: 'pSlot': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(38): warning C4100: 'outgoing_command': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(38): warning C4100: 'incoming_acknowledged': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(38): warning C4100: 'bValidFrame': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(38): warning C4100: 'bReceivedNewWorldUpdate': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\prediction2.h(38): warning C4100: 'pSlot': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(69): warning C4100: 'pInterfaceName': unreferenced formal parameter
+  e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(69): note: while compiling class template member function 'void *CBaseAppSystem<IPrediction2>::QueryInterface(const char *)'
+  e:\source2\robotrepair-sdk\src\game\client\prediction2.h(4): note: see reference to class template instantiation 'CBaseAppSystem<IPrediction2>' being compiled
+e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(64): warning C4100: 'factory': unreferenced formal parameter
+  e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(64): note: while compiling class template member function 'bool CBaseAppSystem<IPrediction2>::Connect(CreateInterfaceFn)'
+  source2_client.cpp
+e:\source2\robotrepair-sdk\src\public\interfaces\interfaces.h(153): warning C4091: 'extern ': ignored on left of 'ISource2Client' when no variable is declared
+e:\source2\robotrepair-sdk\src\public\interfaces\interfaces.h(154): warning C4091: 'extern ': ignored on left of 'ISource2ClientConfig' when no variable is declared
+e:\source2\robotrepair-sdk\src\public\interfaces\interfaces.h(155): warning C4091: 'extern ': ignored on left of 'IPrediction2' when no variable is declared
+e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(54): warning C4100: 'pInterfaceName': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(54): warning C4100: 'factory': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(60): warning C4584: 'CBaseAppSystem<ISource2Client>': base-class 'IAppSystem' is already a base-class of 'ISource2Client'
+  e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(42): note: see declaration of 'IAppSystem'
+  e:\source2\robotrepair-sdk\src\public\game\client\isource2_client.h(12): note: see declaration of 'ISource2Client'
+  e:\source2\robotrepair-sdk\src\game\client\source2_client.h(11): note: see reference to class template instantiation 'CBaseAppSystem<ISource2Client>' being compiled
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(20): warning C4100: 'par2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(23): warning C4100: 'par3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(23): warning C4100: 'par2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(23): warning C4100: 'par1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(24): warning C4100: 'par2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(24): warning C4100: 'par1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(27): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(27): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(27): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(27): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(28): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(28): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(28): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(28): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(34): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(34): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(34): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(35): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(35): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(36): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(36): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(36): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(36): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(41): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(41): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(41): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(43): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(43): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(45): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(45): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(47): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(47): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(50): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(50): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(50): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(50): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(51): warning C4100: 'param_7': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(51): warning C4100: 'param_6': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(51): warning C4100: 'param_5': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(51): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(51): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(51): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(51): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(52): warning C4100: 'param_8': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(52): warning C4100: 'param_7': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(52): warning C4100: 'param_6': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(52): warning C4100: 'param_5': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(52): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(52): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(52): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(52): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(56): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(56): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(70): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(70): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(70): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(71): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(71): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(71): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(71): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(72): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(72): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(73): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(73): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(73): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(77): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(77): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(78): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(78): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(79): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(79): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(79): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(81): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(81): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(81): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(85): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(85): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(85): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(88): warning C4100: 'param_5': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(88): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(88): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(88): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(88): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(90): warning C4100: 'par1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(92): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(92): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(92): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(92): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(94): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(94): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(94): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(95): warning C4100: 'par1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(103): warning C4100: 'param_5': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(103): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(103): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(103): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(103): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(107): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(107): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(107): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(110): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(110): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(110): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(111): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(111): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(111): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(112): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(112): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(112): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(112): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(115): warning C4100: 'param_5': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(115): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(115): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(115): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(115): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(116): warning C4100: 'param_5': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(116): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(116): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(116): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(116): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(121): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(121): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(121): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(122): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(122): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(127): warning C4100: 'param_4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(127): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(127): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(127): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(129): warning C4100: 'par1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(130): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(136): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(136): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(146): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(146): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(146): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(148): warning C4100: 'param_3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(148): warning C4100: 'param_2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.h(148): warning C4100: 'param_1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(60): warning C4584: 'CBaseAppSystem<ISource2ClientConfig>': base-class 'IAppSystem' is already a base-class of 'ISource2ClientConfig'
+  e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(42): note: see declaration of 'IAppSystem'
+  e:\source2\robotrepair-sdk\src\public\game\client\isource2_clientconfig.h(12): note: see declaration of 'ISource2ClientConfig'
+  e:\source2\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(11): note: see reference to class template instantiation 'CBaseAppSystem<ISource2ClientConfig>' being compiled
+e:\source2\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(26): warning C4100: 'par3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(26): warning C4100: 'par2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(26): warning C4100: 'par1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(32): warning C4100: 'par4': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(32): warning C4100: 'par3': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(32): warning C4100: 'par2': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(32): warning C4100: 'par1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(33): warning C4100: 'par1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\source2\robotrepair-sdk\src\game\client\source2_client.cpp(22): warning C4100: 'factory': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.cpp(24): warning C4189: 'time': local variable is initialized but not referenced
+e:\source2\robotrepair-sdk\src\game\client\source2_client.cpp(35): warning C4100: 'factory': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\game\client\source2_client.cpp(40): warning C4100: 'par1': unreferenced formal parameter
+e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(69): warning C4100: 'pInterfaceName': unreferenced formal parameter
+  e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(69): note: while compiling class template member function 'void *CBaseAppSystem<ISource2ClientConfig>::QueryInterface(const char *)'
+  e:\source2\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(11): note: see reference to class template instantiation 'CBaseAppSystem<ISource2ClientConfig>' being compiled
+e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(64): warning C4100: 'factory': unreferenced formal parameter
+  e:\source2\robotrepair-sdk\src\public\appframework\iappframework.h(64): note: while compiling class template member function 'bool CBaseAppSystem<ISource2ClientConfig>::Connect(CreateInterfaceFn)'
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(E:\Source2\robotrepair-sdk\src\game\client\..\..\..\game\vr\bin\win64\client.dll) does not match the Linker's OutputFile property value (E:\Source2\robotrepair-sdk\game\vr\bin\win64\changeme.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(client) does not match the Linker's OutputFile property value (changeme). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : warning C4727: PCH named e:\source2\robotrepair-sdk\src\game\client\x64\release\client.pch with same timestamp found in e:\source2\robotrepair-sdk\src\game\client\x64\release\prediction2.obj and e:\source2\robotrepair-sdk\src\game\client\x64\release\cbase.obj.  Using first PCH.
+LINK : warning C4727: PCH named e:\source2\robotrepair-sdk\src\game\client\x64\release\client.pch with same timestamp found in e:\source2\robotrepair-sdk\src\game\client\x64\release\source2_client.obj and e:\source2\robotrepair-sdk\src\game\client\x64\release\cbase.obj.  Using first PCH.
+     Creating library ..\..\..\game\vr\bin\win64\client.lib and object ..\..\..\game\vr\bin\win64\client.exp
+  Generating code
+  All 247 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  client.vcxproj -> E:\Source2\robotrepair-sdk\src\game\client\..\..\..\game\vr\bin\win64\client.dll
+  client.vcxproj -> ..\..\..\game\vr\bin\win64\client.pdb (Full PDB)

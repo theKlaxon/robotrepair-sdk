@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommand>E:\Source2\robotrepair-sdk\game\bin\win64\vr.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>-developer -console -vconsole -novr -rendersystemdll -noassert -w 1280 -h 720</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerWorkingDirectory>..\..\..\game\bin\win64</LocalDebuggerWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommand>E:\Source2\robotrepair-sdk\game\bin\win64\vr.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>-console -vconsole -novr -rendersystemdll -noassert -w 1280 -h 720 -game hl3</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

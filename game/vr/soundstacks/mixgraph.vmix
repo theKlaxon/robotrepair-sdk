@@ -1,0 +1,73 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "MixDesc"
+	// define the list of submixes
+	m_Submixes =
+	[
+		{
+			_class = "Submix"
+			name = "Facing"
+			channels = 2
+			sendOperator = "SendFacingVoice"
+		},
+		{
+			_class = "Submix"
+			name = "RearDSP"
+			channels = 2
+			sendOperator = "SendVoiceWithNamedSend"
+		}
+
+	]
+	// define the input parameters
+	m_Inputs =
+	[
+		{
+			name = "MasterVolume"
+			value = 1.0
+		},
+		{
+			name = "RearFXInput"
+			value = 1.0
+		}
+	]
+	// define the list of processors
+	m_Processors =
+	[
+//		{
+//			_class = "PresetDSP"
+//			name = "LowpassFX"
+//			effect = 30
+//			xfade = 100.0
+//			channels = 2
+//		},
+		{
+			_class = "filter.lowpass"
+			name = "LowpassFX"
+			frequency = 3700.0
+			bandwidth = 1.0
+			dbGain = 2.3
+			channels = 2
+		},
+	]
+	
+	m_MixCommands =
+	[
+		{
+			command = "processor.enable"
+			processor0 = "LowpassFX"
+			value0 = "1.0"
+		},
+		{
+			command = "submix.process"
+			outputsubmix = "RearDSP"
+			processor0 = "LowpassFX"
+		},
+		{
+			command = "submix.outputx2"
+			submix0 = "Facing"
+			value0 = "@MasterVolume"
+			submix1 = "RearDSP"
+			value1 = "@MasterVolume"
+		}
+	]
+}

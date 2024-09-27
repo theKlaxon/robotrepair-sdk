@@ -1,0 +1,2 @@
+resourcecompiler.exe -fshallow -maxtextureres 256 -noexecheck -quiet -unbufferedio -i "C:\Program Files (x86)\Steam\steamapps\common\The Lab\content\core\materials\effects\flashlight001.vtex" -nop4 -outroot "C:\Program Files (x86)\Steam\steamapps\common\The Lab\game\"
+pause

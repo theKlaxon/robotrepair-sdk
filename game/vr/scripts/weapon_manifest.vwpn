@@ -1,0 +1,29 @@
+<!-- schema text {7e125a45-3d83-4043-b292-9e24f8ef27b4} generic {198980d8-3a93-4919-b4c6-dd1fb07a3a4b} -->
+GameFileWeaponInfo_t
+{
+    string[] FileWeaponInfo_t = 
+    [
+		string m_szPrintName = "#HL2_Crowbar"
+		string m_szViewModel = "models/weapons/v_crowbar.vmdl"
+		string m_szWorldModel = "models/weapons/w_crowbar.vmdl"
+		string m_szAnimationPrefix = "crowbar"
+		string m_iSlot = "1"
+		string m_iPosition = "2"
+		
+		string m_iMaxClip1 = "-1"
+		string m_iMaxClip2 = "-1"
+		string m_iDefaultClip1 = "-1"
+		string m_iDefaultClip2 = "-1"
+		string m_szAmmo1 = "None"
+		string m_szAmmo2 = "None"
+		
+		string m_iWeight = "0"
+		string m_ItemFlagsString = "0"
+		
+			WeaponSoundData_t
+			{
+				string m_Type = "single_shot" 
+				string m_Sound = "Weapon_Crowbar.Single"
+			}
+    ]
+}

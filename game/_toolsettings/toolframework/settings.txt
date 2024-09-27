@@ -1,0 +1,10 @@
+""
+{
+	"multisample"		"1"
+	"always_render_all_windows"		"0"
+	"assetpreviewsystem"
+	{
+		"live_preview"		"0"
+		"background_color"		"-12829636"
+	}
+}

@@ -1,0 +1,4886 @@
+file
+{
+	srcpath "game/portal2_imported/particles/tracer_fx/weapon_tracers.vpcf_c"
+	destpath "particles/tracer_fx/weapon_tracers.vpcf_c"
+	p4cl "2582162"
+	md5 "307FE2E3BEFCD259F661A31F77F17FDB"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/cable/cable.vmat_c"
+	destpath "materials/cable/cable.vmat_c"
+	p4cl "2941218"
+	md5 "7D290180EE03AE3F74ACF691FE805918"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/cable/cable_lit.vmat_c"
+	destpath "materials/cable/cable_lit.vmat_c"
+	p4cl "2941218"
+	md5 "57AA9E286EC8DEA94F4A5F55ED7FAAD9"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/cable/chain.vmat_c"
+	destpath "materials/cable/chain.vmat_c"
+	p4cl "2941218"
+	md5 "78909590110B4065ECADBDEBE6C2C9A3"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/cable/rope.vmat_c"
+	destpath "materials/cable/rope.vmat_c"
+	p4cl "2941218"
+	md5 "912C08BFA6FCED340FCC52CD2A030899"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sprites/blueglow1.vmat_c"
+	destpath "materials/sprites/blueglow1.vmat_c"
+	p4cl "2941218"
+	md5 "CD5563784C4A68946955D4C50852C822"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sprites/purpleglow1.vmat_c"
+	destpath "materials/sprites/purpleglow1.vmat_c"
+	p4cl "2941218"
+	md5 "5CC6E2020E2159F6EFDA91A07605D302"
+}
+file
+{
+	srcpath "game/portal2_imported/models/gibs/hgibs.vmdl_c"
+	destpath "models/gibs/hgibs.vmdl_c"
+	p4cl "2578210"
+	md5 "0CC2BA702E7492164E861104952B8C80"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sprites/zerogxplode.vmat_c"
+	destpath "materials/sprites/zerogxplode.vmat_c"
+	p4cl "2941218"
+	md5 "ED7AB2B22DC72E13F0796FD1998D5F2A"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_physics_dust.vpcf_c"
+	destpath "particles/impact_fx/impact_physics_dust.vpcf_c"
+	p4cl "2582162"
+	md5 "FAF1C89B11E3C2BA86892641BF02E6AD"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_physics_sparks.vpcf_c"
+	destpath "particles/impact_fx/impact_physics_sparks.vpcf_c"
+	p4cl "2582162"
+	md5 "FF7FB83A6A5A3793DC20B427F9340947"
+}
+file
+{
+	srcpath "game/portal2_imported/models/player.vmdl_c"
+	destpath "models/player.vmdl_c"
+	p4cl "2578210"
+	md5 "12344176C9FC83B2637C79A9E5545AD1"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/burning_fx/burning_character.vpcf_c"
+	destpath "particles/burning_fx/burning_character.vpcf_c"
+	p4cl "2582162"
+	md5 "D59EDB2506F22428118C32D604C17605"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/cable/black_color_tga_e7a6c304.vtex_c"
+	destpath "materials/cable/black_color_tga_e7a6c304.vtex_c"
+	p4cl "2941218"
+	md5 "B9A2E13CFA47A2A5ED9B51A90BA5C2FA"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/cable/dx8cable_color_tga_6abadf7e.vtex_c"
+	destpath "materials/cable/dx8cable_color_tga_6abadf7e.vtex_c"
+	p4cl "2941218"
+	md5 "813E51CCAAEE3612C92DC28DD33D806C"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/cable/dx8chain_color_tga_7aa46665.vtex_c"
+	destpath "materials/cable/dx8chain_color_tga_7aa46665.vtex_c"
+	p4cl "2941218"
+	md5 "263705C60B196A4D30631DA76A265F5A"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/cable/rope_color_tga_f3ad9364.vtex_c"
+	destpath "materials/cable/rope_color_tga_f3ad9364.vtex_c"
+	p4cl "2941218"
+	md5 "5F89AA7787B7AEC25D410CE63249ACAF"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sprites/blueglow1_tga_c30f6c2c.vtex_c"
+	destpath "materials/sprites/blueglow1_tga_c30f6c2c.vtex_c"
+	p4cl "2941218"
+	md5 "7885759651B9D32EE9D1F33E9D3C01C9"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sprites/purpleglow1_tga_cb65042d.vtex_c"
+	destpath "materials/sprites/purpleglow1_tga_cb65042d.vtex_c"
+	p4cl "2941218"
+	md5 "9F2F6488A8E94F568A54F79D90C6A716"
+}
+file
+{
+	srcpath "game/portal2_imported/models/gibs/hgibs_bg_skull_lod0.vmesh_c"
+	destpath "models/gibs/hgibs_bg_skull_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "F95AB98503C3F5EE2B0C9C1C8EA21B26"
+}
+file
+{
+	srcpath "game/portal2_imported/models/gibs/hgibs_bg_skull_lod1.vmesh_c"
+	destpath "models/gibs/hgibs_bg_skull_lod1.vmesh_c"
+	p4cl "2578210"
+	md5 "A000DCD9E7FFD35FB9F79EE25FE91FED"
+}
+file
+{
+	srcpath "game/portal2_imported/models/gibs/hgibs_bg_skull_lod2.vmesh_c"
+	destpath "models/gibs/hgibs_bg_skull_lod2.vmesh_c"
+	p4cl "2578210"
+	md5 "8234B3606044A5139E54A7B1DAC66FF2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/gibs/hgibs_bg_skull_lod3.vmesh_c"
+	destpath "models/gibs/hgibs_bg_skull_lod3.vmesh_c"
+	p4cl "2578210"
+	md5 "1D3800D386C9B91B24B15658A3D93E30"
+}
+file
+{
+	srcpath "game/portal2_imported/models/gibs/hgibs_bg_skull_lod4.vmesh_c"
+	destpath "models/gibs/hgibs_bg_skull_lod4.vmesh_c"
+	p4cl "2578210"
+	md5 "1D3800D386C9B91B24B15658A3D93E30"
+}
+file
+{
+	srcpath "game/portal2_imported/models/gibs/hgibs.vphys_c"
+	destpath "models/gibs/hgibs.vphys_c"
+	p4cl "2578210"
+	md5 "E087DFDCE7756C4554ACC705BD5E0C85"
+}
+file
+{
+	srcpath "game/portal2_imported/models/gibs/hgibs.vagrp_c"
+	destpath "models/gibs/hgibs.vagrp_c"
+	p4cl "2578210"
+	md5 "6A673EB7555AEE500B3F21D0E9E65B77"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sprites/zerogxplode_mks_4cdcfc4d.vtex_c"
+	destpath "materials/sprites/zerogxplode_mks_4cdcfc4d.vtex_c"
+	p4cl "2941218"
+	md5 "A4932D27A8874105F67D9EAE622F3DF6"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_physics_sparks_glow.vpcf_c"
+	destpath "particles/impact_fx/impact_physics_sparks_glow.vpcf_c"
+	p4cl "2582162"
+	md5 "318E75299A4F9A4B173550920E5CDD57"
+}
+file
+{
+	srcpath "game/portal2_imported/models/player_bg_chell_lod0.vmesh_c"
+	destpath "models/player_bg_chell_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "04F1ECD54BA844B8EFFAEEF2F0D9E69F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/player.vphys_c"
+	destpath "models/player.vphys_c"
+	p4cl "2578210"
+	md5 "D8D7DE14FA879D8E943A663F58A481CA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/player.vagrp_c"
+	destpath "models/player.vagrp_c"
+	p4cl "2578210"
+	md5 "7B328D9C5A844D997E237FB632960ACF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/player_animations.vagrp_c"
+	destpath "models/player_animations.vagrp_c"
+	p4cl "2578210"
+	md5 "08A0804F1333B69264FB7D5ECB813467"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/chell_body_mp01.vmat_c"
+	destpath "materials/models/player/chell_body_mp01.vmat_c"
+	p4cl "2941218"
+	md5 "45449279E3E4108D3B1B334C6E0E39FD"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/chell_face_mp01.vmat_c"
+	destpath "materials/models/player/chell_face_mp01.vmat_c"
+	p4cl "2941218"
+	md5 "217EECCFABF649470C2DF0C1C2A01455"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/chell_hair_mp01.vmat_c"
+	destpath "materials/models/player/chell_hair_mp01.vmat_c"
+	p4cl "2941218"
+	md5 "39ABB7219567693BFBEC27A69D507CC0"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/burning_fx/burning_character_b.vpcf_c"
+	destpath "particles/burning_fx/burning_character_b.vpcf_c"
+	p4cl "2582162"
+	md5 "2B5C80DD11D60324CEC298736D7A963C"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/gibs/hgibs/skull1.vmat_c"
+	destpath "materials/models/gibs/hgibs/skull1.vmat_c"
+	p4cl "2941218"
+	md5 "CCC384BC44C85200F1A024185F9B57E9"
+}
+file
+{
+	srcpath "game/portal2_imported/models/gibs/hgibs.vanim_c"
+	destpath "models/gibs/hgibs.vanim_c"
+	p4cl "2578210"
+	md5 "C39905D5DB2B147ABAA5E3557CDA0D94"
+}
+file
+{
+	srcpath "game/portal2_imported/models/gibs/hgibs.vseq_c"
+	destpath "models/gibs/hgibs.vseq_c"
+	p4cl "2578210"
+	md5 "B4A20432911D2681F69B02B05120507D"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/eyeball_r.vmat_c"
+	destpath "materials/models/player/eyeball_r.vmat_c"
+	p4cl "2941218"
+	md5 "CFD372FDFA07236983BCAE4ECD4BD0D6"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/eyeball_l.vmat_c"
+	destpath "materials/models/player/eyeball_l.vmat_c"
+	p4cl "2941218"
+	md5 "C0DA2EAFE661C6A99DB61CEE74442B34"
+}
+file
+{
+	srcpath "game/portal2_imported/models/player.vanim_c"
+	destpath "models/player.vanim_c"
+	p4cl "2578210"
+	md5 "40E755128C2C2EB37FC0C998757842F9"
+}
+file
+{
+	srcpath "game/portal2_imported/models/player.vseq_c"
+	destpath "models/player.vseq_c"
+	p4cl "2578210"
+	md5 "8F2C154BB8D653F6B4FA66FDDD1E4A7E"
+}
+file
+{
+	srcpath "game/portal2_imported/models/player_animations.vanim_c"
+	destpath "models/player_animations.vanim_c"
+	p4cl "2578210"
+	md5 "95BDF16C0FAD1370169E70E0568B1819"
+}
+file
+{
+	srcpath "game/portal2_imported/models/player_animations.vseq_c"
+	destpath "models/player_animations.vseq_c"
+	p4cl "2578210"
+	md5 "76DF92CFF2841FECCB45CE50C918AC35"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/chell_body_mp01_color_psd_b90d64ab.vtex_c"
+	destpath "materials/models/player/chell_body_mp01_color_psd_b90d64ab.vtex_c"
+	p4cl "2941218"
+	md5 "B2EECF6BF5F8DA958B63389E51F2B4F6"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/chell_face_mp01_color_psd_318bdaee.vtex_c"
+	destpath "materials/models/player/chell_face_mp01_color_psd_318bdaee.vtex_c"
+	p4cl "2941218"
+	md5 "0884C0B7B39D92C0D0523785DB231DB9"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/chell_hair_mp01_color_psd_a85e38bd.vtex_c"
+	destpath "materials/models/player/chell_hair_mp01_color_psd_a85e38bd.vtex_c"
+	p4cl "2941218"
+	md5 "0A0BD48FF8D12A1A479A85A6FBB3DB97"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/chell_hair_normal_tga_d641947f.vtex_c"
+	destpath "materials/models/player/chell_hair_normal_tga_d641947f.vtex_c"
+	p4cl "2941218"
+	md5 "9CE955E775B056CF0F264D74A468DF0A"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/chell_hair_normal_tga_8d80ac9f.vtex_c"
+	destpath "materials/models/player/chell_hair_normal_tga_8d80ac9f.vtex_c"
+	p4cl "2941218"
+	md5 "AC496E0C5124E2E1CFBB0CA57359AEEB"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/chell_hair_normal_refl_tga_ba9e75c8.vtex_c"
+	destpath "materials/models/player/chell_hair_normal_refl_tga_ba9e75c8.vtex_c"
+	p4cl "2941218"
+	md5 "B58813FA575BB2FED6FBBE33BCDB48CF"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/burning_fx/burning_character_d.vpcf_c"
+	destpath "particles/burning_fx/burning_character_d.vpcf_c"
+	p4cl "2582162"
+	md5 "27AC436092415FEDC09EA3C5D249F470"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/burning_fx/burning_character_e.vpcf_c"
+	destpath "particles/burning_fx/burning_character_e.vpcf_c"
+	p4cl "2582162"
+	md5 "281794D3DFBC6209068AFB85FE1BD796"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/gibs/hgibs/skull1_color_tga_f5a8b507.vtex_c"
+	destpath "materials/models/gibs/hgibs/skull1_color_tga_f5a8b507.vtex_c"
+	p4cl "2941218"
+	md5 "152BC80EDAA5CDDF1B4B7639EAF1DA7B"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/gibs/hgibs/skull1_normal_tga_3e2e48a5.vtex_c"
+	destpath "materials/models/gibs/hgibs/skull1_normal_tga_3e2e48a5.vtex_c"
+	p4cl "2941218"
+	md5 "EE73ED5F7AC3B238E149EE536C4497C8"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/gibs/hgibs/skull1_normal_tga_b8f7b5d9.vtex_c"
+	destpath "materials/models/gibs/hgibs/skull1_normal_tga_b8f7b5d9.vtex_c"
+	p4cl "2941218"
+	md5 "C7F4B297A58B845672CE1DA500DC3AD4"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/eyeball_r_dx8_color_tga_d905ac89.vtex_c"
+	destpath "materials/models/player/eyeball_r_dx8_color_tga_d905ac89.vtex_c"
+	p4cl "2941218"
+	md5 "3D5395B919F9870F7799735B55013DF7"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/eyeball_l_dx8_color_tga_11025bb7.vtex_c"
+	destpath "materials/models/player/eyeball_l_dx8_color_tga_11025bb7.vtex_c"
+	p4cl "2941218"
+	md5 "EE46729A51DAB78D4F294E96ABFC7971"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/huge_fan.vmdl_c"
+	destpath "models/props_bts/huge_fan.vmdl_c"
+	p4cl "2579411"
+	md5 "CD7CC3EA6AFA7AD7694E9141F7EF998A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/portal_door.vmdl_c"
+	destpath "models/props/portal_door.vmdl_c"
+	p4cl "2579411"
+	md5 "3805CDAE2A2F9E0C18143052247BF606"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/huge_fan_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/huge_fan_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "11F07E6DF2B1DB8394CDCCD20F4343CC"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/huge_fan.vphys_c"
+	destpath "models/props_bts/huge_fan.vphys_c"
+	p4cl "2579411"
+	md5 "DCF33857529C837B6FF7D35850080A1F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/portal_door_bg_default_lod0.vmesh_c"
+	destpath "models/props/portal_door_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "65AA1AC8756342095BCC8600CF0E7179"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/portal_door.vphys_c"
+	destpath "models/props/portal_door.vphys_c"
+	p4cl "2579411"
+	md5 "3777CE59287E05180E8FBD84918D1F92"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/portal_door.vagrp_c"
+	destpath "models/props/portal_door.vagrp_c"
+	p4cl "2579411"
+	md5 "3E6425E344100AD6032536DE541DD855"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/anim_wp/arm_64x64_exterior.vmat_c"
+	destpath "materials/models/anim_wp/arm_64x64_exterior.vmat_c"
+	p4cl "2941218"
+	md5 "7EA83CE0FAC0A7559C6E5C838AD972D8"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/particle_ring_pulled.vtex_c"
+	destpath "materials/particle/particle_ring_pulled.vtex_c"
+	p4cl "2941218"
+	md5 "49AE2DF7F42EB37C44E08CBD90FEA1AC"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/glados/glados_head.vmat_c"
+	destpath "materials/models/npcs/glados/glados_head.vmat_c"
+	p4cl "2941218"
+	md5 "64328A12BBE8C141A08D77CE7B66F749"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props/portal_door_glass.vmat_c"
+	destpath "materials/models/props/portal_door_glass.vmat_c"
+	p4cl "2941218"
+	md5 "DB900309FD2624958872BF7BFD2AD54F"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props/portal_door_light.vmat_c"
+	destpath "materials/models/props/portal_door_light.vmat_c"
+	p4cl "2941218"
+	md5 "67C125AC1C91A6906AD036AB1A8D6CCE"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/portal_door.vanim_c"
+	destpath "models/props/portal_door.vanim_c"
+	p4cl "2579411"
+	md5 "F1387595277EDF4DA73733072F05D600"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/portal_door.vseq_c"
+	destpath "models/props/portal_door.vseq_c"
+	p4cl "2579411"
+	md5 "9649ECFAD4FBCDD4E493FC973BCAD1DE"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/anim_wp/arm_64x64_exterior_color_psd_2247e668.vtex_c"
+	destpath "materials/models/anim_wp/arm_64x64_exterior_color_psd_2247e668.vtex_c"
+	p4cl "2941218"
+	md5 "935A2FA9B0922E66A8B1281BE195A2B7"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/anim_wp/arm_64x64_exterior_selfillum_tga_66158c6e.vtex_c"
+	destpath "materials/models/anim_wp/arm_64x64_exterior_selfillum_tga_66158c6e.vtex_c"
+	p4cl "2941218"
+	md5 "12CA9C84B92DF182C89B97A0D730D022"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/glados/glados_head_color_psd_6610f3d5.vtex_c"
+	destpath "materials/models/npcs/glados/glados_head_color_psd_6610f3d5.vtex_c"
+	p4cl "2941218"
+	md5 "49221C49819752BFF1670EBD7FCFCF3E"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/glados/glados_head_normal_tga_79cb60db.vtex_c"
+	destpath "materials/models/npcs/glados/glados_head_normal_tga_79cb60db.vtex_c"
+	p4cl "2941218"
+	md5 "55C41C3543760DA3FB185A4ECC3ACD6E"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/glados/glados_head_normal_tga_c3875787.vtex_c"
+	destpath "materials/models/npcs/glados/glados_head_normal_tga_c3875787.vtex_c"
+	p4cl "2941218"
+	md5 "BDD5875972982E8962B8000C55E0DD0D"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/glados/glados_head_normal_refl_tga_a8ef086d.vtex_c"
+	destpath "materials/models/npcs/glados/glados_head_normal_refl_tga_a8ef086d.vtex_c"
+	p4cl "2941218"
+	md5 "A2664C0FD7020D80BA99D465D6B8F71C"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props/portal_door_glass_color_psd_d1ad318e.vtex_c"
+	destpath "materials/models/props/portal_door_glass_color_psd_d1ad318e.vtex_c"
+	p4cl "2941218"
+	md5 "2AE28954A5460D09E727BAD0A4729DE5"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props/portal_door_light_color_psd_9942f469.vtex_c"
+	destpath "materials/models/props/portal_door_light_color_psd_9942f469.vtex_c"
+	p4cl "2941218"
+	md5 "EA9C07CE84D6B3F8DFC42FE8C252BE62"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props/portal_door_light_selfillum_tga_71728432.vtex_c"
+	destpath "materials/models/props/portal_door_light_selfillum_tga_71728432.vtex_c"
+	p4cl "2941218"
+	md5 "0A29DAA7F4FB912DC6338E1C5F6D6333"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/spark_fx/weld_spark_01_smoke.vpcf_c"
+	destpath "particles/spark_fx/weld_spark_01_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "1D0109F79F84B28694B12441E01CDBBA"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/spark_fx/weld_spark_01_glow_large.vpcf_c"
+	destpath "particles/spark_fx/weld_spark_01_glow_large.vpcf_c"
+	p4cl "2582162"
+	md5 "19CEC1F0D4833697481C76B0EF9B2411"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/spark_fx/weld_spark_01_sparksfly.vpcf_c"
+	destpath "particles/spark_fx/weld_spark_01_sparksfly.vpcf_c"
+	p4cl "2582162"
+	md5 "7FE8DE0FBD7F7E03CFC3CC1871B2DE3F"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/spark_fx/weld_spark_01_burnglow.vpcf_c"
+	destpath "particles/spark_fx/weld_spark_01_burnglow.vpcf_c"
+	p4cl "2582162"
+	md5 "F6D7D114D3EC2324E0947883C7F6930C"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/spark_fx/weld_spark_01_sparks_glow.vpcf_c"
+	destpath "particles/spark_fx/weld_spark_01_sparks_glow.vpcf_c"
+	p4cl "2582162"
+	md5 "78B306ED8C64A776203D4D76BF5C4ECE"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/spark_fx/weld_spark_01_sparksfly_col.vpcf_c"
+	destpath "particles/spark_fx/weld_spark_01_sparksfly_col.vpcf_c"
+	p4cl "2582162"
+	md5 "0C3CE0657FDFBE4B50727B5AC4086361"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/glow_spark_01.vtex_c"
+	destpath "materials/particle/glow_spark_01.vtex_c"
+	p4cl "2941218"
+	md5 "7E2E7EC6A5266DFA8E3ED8D2506F21BB"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/electrical_arc/electrical_arc.vtex_c"
+	destpath "materials/particle/electrical_arc/electrical_arc.vtex_c"
+	p4cl "2941218"
+	md5 "872C5DEABEA96621A7840D630F0C39EB"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/beam_generic_2.vtex_c"
+	destpath "materials/particle/beam_generic_2.vtex_c"
+	p4cl "2941218"
+	md5 "3DC19C63AF5541B4C7FC0731756C0EE6"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/cleanser_edge.vtex_c"
+	destpath "materials/effects/cleanser_edge.vtex_c"
+	p4cl "2941218"
+	md5 "DBA18C1339B7B0A96855FA6909664465"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/beam_hotblue.vtex_c"
+	destpath "materials/particle/beam_hotblue.vtex_c"
+	p4cl "2941218"
+	md5 "3182CA3E467CCF83362F195928FD8AE8"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/smokesprites0001.vtex_c"
+	destpath "materials/particle/smokesprites0001.vtex_c"
+	p4cl "2941218"
+	md5 "01FF933E245B720146B48DE7F5EEA458"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/beam_portaledge_04.vtex_c"
+	destpath "materials/particle/beam_portaledge_04.vtex_c"
+	p4cl "2941218"
+	md5 "686406D0AC5EADCACBA38D6B85A97542"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/particle_flares/aircraft_white_mask.vtex_c"
+	destpath "materials/particle/particle_flares/aircraft_white_mask.vtex_c"
+	p4cl "2941218"
+	md5 "6E056A6DEC8080FB578B1158363B39ED"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/coop/command_target_particle_rev1.vtex_c"
+	destpath "materials/particle/coop/command_target_particle_rev1.vtex_c"
+	p4cl "2941218"
+	md5 "B0D96FFDEEC41C4C5F3DF99D2701CB01"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/coop/command_target_particle_crosshair_add.vtex_c"
+	destpath "materials/particle/coop/command_target_particle_crosshair_add.vtex_c"
+	p4cl "2941218"
+	md5 "B69360C635D9ABFEC1C26F02BF481A06"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/combinemuzzle1.vtex_c"
+	destpath "materials/effects/combinemuzzle1.vtex_c"
+	p4cl "2941218"
+	md5 "1112875458609F0A01A7512F97A8A3BC"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/icon_arrow_left.vmat_c"
+	destpath "materials/vgui/hud/icon_arrow_left.vmat_c"
+	p4cl "2941218"
+	md5 "6D5D2E997857BB461F3F5F2D583AF966"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/icon_arrow_right.vmat_c"
+	destpath "materials/vgui/hud/icon_arrow_right.vmat_c"
+	p4cl "2941218"
+	md5 "303334853274AC7BA43619C258C3E919"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/icon_arrow_up.vmat_c"
+	destpath "materials/vgui/hud/icon_arrow_up.vmat_c"
+	p4cl "2941218"
+	md5 "D15BE8173934E9B064F056A588047D7A"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/icon_arrow_down.vmat_c"
+	destpath "materials/vgui/hud/icon_arrow_down.vmat_c"
+	p4cl "2941218"
+	md5 "85163A3B0AFBE47A711C4BD6AC869D18"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/icon_arrow_plain.vmat_c"
+	destpath "materials/vgui/hud/icon_arrow_plain.vmat_c"
+	p4cl "2941218"
+	md5 "4E64D940C6FAD60F33F5057A31FD2D57"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/combinemuzzle1.vmat_c"
+	destpath "materials/effects/combinemuzzle1.vmat_c"
+	p4cl "2941218"
+	md5 "570744A1471ABB68A8F5460DE3B2C338"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/combinemuzzle2.vmat_c"
+	destpath "materials/effects/combinemuzzle2.vmat_c"
+	p4cl "2941218"
+	md5 "01647FC3E256FACCF3F03ED757C8CC99"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/combinemuzzle1_noz.vmat_c"
+	destpath "materials/effects/combinemuzzle1_noz.vmat_c"
+	p4cl "2941218"
+	md5 "32D7C29AC8DD3DAA5F7165357EB72DA7"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/combinemuzzle2_noz.vmat_c"
+	destpath "materials/effects/combinemuzzle2_noz.vmat_c"
+	p4cl "2941218"
+	md5 "0694737171404959DE5636CA695F31CE"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/muzzleflash1_noz.vmat_c"
+	destpath "materials/effects/muzzleflash1_noz.vmat_c"
+	p4cl "2941218"
+	md5 "CC29C1A600714670B892D96DBF160E72"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/muzzleflash2_noz.vmat_c"
+	destpath "materials/effects/muzzleflash2_noz.vmat_c"
+	p4cl "2941218"
+	md5 "001CE2AB0689E2DB7603C1002AAE045F"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/muzzleflash3_noz.vmat_c"
+	destpath "materials/effects/muzzleflash3_noz.vmat_c"
+	p4cl "2941218"
+	md5 "AD6D9E2A98EA47DEDEB20CF7BF23240F"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/muzzleflash4_noz.vmat_c"
+	destpath "materials/effects/muzzleflash4_noz.vmat_c"
+	p4cl "2941218"
+	md5 "20E57534D3EE4520D3DB425CFA27B242"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/strider_muzzle.vmat_c"
+	destpath "materials/effects/strider_muzzle.vmat_c"
+	p4cl "2941218"
+	md5 "87F0103286B415A6D5B9ACADA18320EB"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/particle_noisesphere.vmat_c"
+	destpath "materials/particle/particle_noisesphere.vmat_c"
+	p4cl "2941218"
+	md5 "ECC53C2F5CC9A6EB75FD0D8B2C3191BC"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sun/overlay.vmat_c"
+	destpath "materials/sun/overlay.vmat_c"
+	p4cl "2941218"
+	md5 "A5ED3C2C59085CD40E0A33BFC02A4B81"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sprites/light_glow02_add_noz.vmat_c"
+	destpath "materials/sprites/light_glow02_add_noz.vmat_c"
+	p4cl "2941218"
+	md5 "87BF898E58848BB470CA11B557AF5EC6"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/slime1.vmat_c"
+	destpath "materials/effects/slime1.vmat_c"
+	p4cl "2941218"
+	md5 "00B37DDE9194DA31903D64795D5BFCF2"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_concrete.vpcf_c"
+	destpath "particles/impact_fx/impact_concrete.vpcf_c"
+	p4cl "2582162"
+	md5 "76DDE1DBAC57C5E571F986CA869256E8"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_concrete_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_concrete_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "A6A17B5D66CADD86FD50DB64F1F6D6D0"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_dirt.vpcf_c"
+	destpath "particles/impact_fx/impact_dirt.vpcf_c"
+	p4cl "2582162"
+	md5 "D71E6504CA9699FA3BA0ADAF3080A33C"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_dirt_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_dirt_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "9F9D8E4FB1DD57994751A5AE4BCCC45B"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_metal.vpcf_c"
+	destpath "particles/impact_fx/impact_metal.vpcf_c"
+	p4cl "2582162"
+	md5 "6DAE8BD279C39F9065AB91B994E39A07"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_metal_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_metal_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "F20F867B3CDABDB9E3969BBB217D2D5A"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_grass.vpcf_c"
+	destpath "particles/impact_fx/impact_grass.vpcf_c"
+	p4cl "2582162"
+	md5 "30C9916E008962607194AF0BF2B4E519"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_grass_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_grass_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "2044C14C994F44302E4930253D01F4E5"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plastic.vpcf_c"
+	destpath "particles/impact_fx/impact_plastic.vpcf_c"
+	p4cl "2582162"
+	md5 "D7BB4811BA8839DCF38FB7B9B0364484"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plastic_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_plastic_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "EF01666CD0505FEC92E44618B153B4A5"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_sand.vpcf_c"
+	destpath "particles/impact_fx/impact_sand.vpcf_c"
+	p4cl "2582162"
+	md5 "1B372FEBF6D5AF03FC77C8306A5F76F5"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_sand_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_sand_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "9A8D8F6C51E3253026A80EEF0A4859A3"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_leaves.vpcf_c"
+	destpath "particles/impact_fx/impact_leaves.vpcf_c"
+	p4cl "2582162"
+	md5 "9A801BBAD3751BBFDF7EB955384AA714"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_leaves_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_leaves_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "98ADC49B083221B14760BDEB26BAAAAA"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_computer.vpcf_c"
+	destpath "particles/impact_fx/impact_computer.vpcf_c"
+	p4cl "2582162"
+	md5 "6A05C7FB4A307E8494315F8ECF61522C"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_computer_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_computer_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "D408546CC103192E0BCE5EE9E5C1857B"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_asphalt.vpcf_c"
+	destpath "particles/impact_fx/impact_asphalt.vpcf_c"
+	p4cl "2582162"
+	md5 "8AE7F39555CFD0B65A06EED21F4A1328"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_asphalt_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_asphalt_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "A8E446551B427A4E28CE4CD3E58FB357"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_wet.vpcf_c"
+	destpath "particles/impact_fx/impact_wet.vpcf_c"
+	p4cl "2582162"
+	md5 "8E618B2ED5997726E0DA192657E3F27A"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_wet_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_wet_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "4AEFEA1A91DFAA77D64DC5675A323760"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_tile.vpcf_c"
+	destpath "particles/impact_fx/impact_tile.vpcf_c"
+	p4cl "2582162"
+	md5 "5D360875A60982A19DD79B55ADD486A7"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_tile_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_tile_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "195919804FF51138F584186E41D6A6D6"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_cardboard.vpcf_c"
+	destpath "particles/impact_fx/impact_cardboard.vpcf_c"
+	p4cl "2582162"
+	md5 "560C50AFB15CE1696E76D97DBA3C0F0B"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_cardboard_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_cardboard_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "811FA60D8C6DB2D043870875BDA5FEE8"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_wood.vpcf_c"
+	destpath "particles/impact_fx/impact_wood.vpcf_c"
+	p4cl "2582162"
+	md5 "A0D1F962D6465B42E9C2F0229981AF7A"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_wood_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_wood_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "1591155F510F098021C36DFB21709B65"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_glass.vpcf_c"
+	destpath "particles/impact_fx/impact_glass.vpcf_c"
+	p4cl "2582162"
+	md5 "C16E3041EA7020E0E096AED4F70EC530"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_glass_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_glass_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "B37435C1C5532A0972D8C6676CA0450D"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_clay.vpcf_c"
+	destpath "particles/impact_fx/impact_clay.vpcf_c"
+	p4cl "2582162"
+	md5 "D4888ABFD543BDAD5B9F7E6C19F9EA49"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_clay_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_clay_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "279EA074311448D926C8D55A2C624A0E"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster.vpcf_c"
+	p4cl "2582162"
+	md5 "C36C827A7605FA97110DBB0210ACD9BF"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "9619EB01021608A0CB2145B11F8495E6"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_rock.vpcf_c"
+	destpath "particles/impact_fx/impact_rock.vpcf_c"
+	p4cl "2582162"
+	md5 "7399852657BACC00FFD72F97338C1867"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_rock_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_rock_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "7E2F4C2C24FF1B49968A14BDFDDA1D04"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_rubber.vpcf_c"
+	destpath "particles/impact_fx/impact_rubber.vpcf_c"
+	p4cl "2582162"
+	md5 "C99666741E61F4D197DB11501458ADA7"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_rubber_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_rubber_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "182B2BDE23FDB8DFC4C70C598AA7C87A"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_sheetrock.vpcf_c"
+	destpath "particles/impact_fx/impact_sheetrock.vpcf_c"
+	p4cl "2582162"
+	md5 "9D7829F35A34FA649BFD20065C7EE1C3"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_sheetrock_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_sheetrock_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "D7A045D62F55506FAB608166F801854C"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_cloth.vpcf_c"
+	destpath "particles/impact_fx/impact_cloth.vpcf_c"
+	p4cl "2582162"
+	md5 "507CF0C7E656ACE8B2D5435E0F805B54"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_cloth_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_cloth_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "8C9C7BFF3B237CEAB5D765314FA4F711"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_carpet.vpcf_c"
+	destpath "particles/impact_fx/impact_carpet.vpcf_c"
+	p4cl "2582162"
+	md5 "B5F69BA34ADA8C76A01E42A266CD3FB4"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_carpet_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_carpet_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "CFB9CD723B02DB423F737A9A022CAEF7"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_paper.vpcf_c"
+	destpath "particles/impact_fx/impact_paper.vpcf_c"
+	p4cl "2582162"
+	md5 "F5B97896E94B74114CF8BB8F6F322214"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_paper_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_paper_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "A26B0A57BF9AE15227A393812C172706"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_upholstery.vpcf_c"
+	destpath "particles/impact_fx/impact_upholstery.vpcf_c"
+	p4cl "2582162"
+	md5 "1D7B3706FCE3882265146159F4103033"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_upholstery_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_upholstery_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "D3E7C0500F22083CEBB75B1B87377C38"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_puddle.vpcf_c"
+	destpath "particles/impact_fx/impact_puddle.vpcf_c"
+	p4cl "2582162"
+	md5 "B620CBA06EE78885CDF6705968640556"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_puddle_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_puddle_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "EBFDBCD0893258631F62220E7E896950"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_water.vpcf_c"
+	destpath "particles/impact_fx/impact_water.vpcf_c"
+	p4cl "2582162"
+	md5 "2F7286A0BC4E33C3676F40FB91190D0F"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/fire_cloud1.vmat_c"
+	destpath "materials/effects/fire_cloud1.vmat_c"
+	p4cl "2941218"
+	md5 "BDC6F143C5DC2156ECADBFC50C9D29C2"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/fire_embers3.vmat_c"
+	destpath "materials/effects/fire_embers3.vmat_c"
+	p4cl "2941218"
+	md5 "4174783BA2FE480358E71414FC548118"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/splash3.vmat_c"
+	destpath "materials/effects/splash3.vmat_c"
+	p4cl "2941218"
+	md5 "508CBC41A8847242167455FC11C306DA"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/particle_smokegrenade.vmat_c"
+	destpath "materials/particle/particle_smokegrenade.vmat_c"
+	p4cl "2941218"
+	md5 "25A8F2F3EACF3C2070D63BBE34E60038"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/particle_smokegrenade1.vmat_c"
+	destpath "materials/particle/particle_smokegrenade1.vmat_c"
+	p4cl "2941218"
+	md5 "4D843C72132FF58C6219B45E66BA04C6"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sprites/laserbeam.vmat_c"
+	destpath "materials/sprites/laserbeam.vmat_c"
+	p4cl "2941218"
+	md5 "6AD4A38D3E4213B4045A95AA8393DE11"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/cable/rope_shadowdepth.vmat_c"
+	destpath "materials/cable/rope_shadowdepth.vmat_c"
+	p4cl "2941218"
+	md5 "C014219ADBCDB598070A0E0E7D58974D"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/tesla_glow_noz.vmat_c"
+	destpath "materials/effects/tesla_glow_noz.vmat_c"
+	p4cl "2941218"
+	md5 "2E469B859BD46A594DF942B7F279B06B"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/autoaim.vmat_c"
+	destpath "materials/vgui/hud/autoaim.vmat_c"
+	p4cl "2941218"
+	md5 "ADD83898FB08A30E2D646A7949EDA645"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/xbox_reticle.vmat_c"
+	destpath "materials/vgui/hud/xbox_reticle.vmat_c"
+	p4cl "2941218"
+	md5 "5B4D60A3F0F3BEF50F21CA15F04E44FB"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/icon_arrow_right_tga_2d9a99a3.vtex_c"
+	destpath "materials/vgui/hud/icon_arrow_right_tga_2d9a99a3.vtex_c"
+	p4cl "2941218"
+	md5 "D4587094DE1D02E4A22EAC6E91BA1C46"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/icon_arrow_up_tga_aa2cddc1.vtex_c"
+	destpath "materials/vgui/hud/icon_arrow_up_tga_aa2cddc1.vtex_c"
+	p4cl "2941218"
+	md5 "24F476C330FF3DB48347FEA9C950550A"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/icon_arrow_plain_tga_3519e0b4.vtex_c"
+	destpath "materials/vgui/hud/icon_arrow_plain_tga_3519e0b4.vtex_c"
+	p4cl "2941218"
+	md5 "05C80A6FA1D5ACEE8EDAD8167B83B51D"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/combinemuzzle1_color_tga_2630d2c0.vtex_c"
+	destpath "materials/effects/combinemuzzle1_color_tga_2630d2c0.vtex_c"
+	p4cl "2941218"
+	md5 "E0041F9A2374C49BF5389858A2966BF5"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/combinemuzzle2_color_tga_39f2b581.vtex_c"
+	destpath "materials/effects/combinemuzzle2_color_tga_39f2b581.vtex_c"
+	p4cl "2941218"
+	md5 "3618988BD8D956B70CD4BAE33A6C38B7"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/strider_muzzle_color_tga_2c94edbb.vtex_c"
+	destpath "materials/effects/strider_muzzle_color_tga_2c94edbb.vtex_c"
+	p4cl "2941218"
+	md5 "C15D5B4310628239B37CB91C2CDA7AAB"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/particle_noisesphere_color_tga_16a35678.vtex_c"
+	destpath "materials/particle/particle_noisesphere_color_tga_16a35678.vtex_c"
+	p4cl "2941218"
+	md5 "873878D3AC0954A6BC01A46F35AAD1DA"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sun/overlay_color_tga_993edd6a.vtex_c"
+	destpath "materials/sun/overlay_color_tga_993edd6a.vtex_c"
+	p4cl "2941218"
+	md5 "C4F261A050DC9931548246C58D2960BE"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sprites/light_glow02_tga_90e50925.vtex_c"
+	destpath "materials/sprites/light_glow02_tga_90e50925.vtex_c"
+	p4cl "2941218"
+	md5 "BEC7D1524A32BACF399A9B6F2DB9B7CB"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/slime1_color_tga_1bf52111.vtex_c"
+	destpath "materials/effects/slime1_color_tga_1bf52111.vtex_c"
+	p4cl "2941218"
+	md5 "5DE76720BB732B985EE347DDD367DFF0"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_concrete_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_concrete_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "D03F9D4216EC09950ACE28F5544B4719"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/ricochet_sparks.vpcf_c"
+	destpath "particles/impact_fx/ricochet_sparks.vpcf_c"
+	p4cl "2582162"
+	md5 "2769C018A6A5435C10948CA735601994"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_concrete_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_concrete_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "E08C8D9B9277E190DEF5782D985F9F86"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_generic_burst_2.vpcf_c"
+	destpath "particles/impact_fx/impact_generic_burst_2.vpcf_c"
+	p4cl "2582162"
+	md5 "39DB20920D9F365B11DAA24E9172082D"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_generic_burst.vpcf_c"
+	destpath "particles/impact_fx/impact_generic_burst.vpcf_c"
+	p4cl "2582162"
+	md5 "3B49839269B66B60727BDB061D8A0098"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_dirt_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_dirt_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "1B235835210DA85D306593B86A5EDAD3"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_dirt_child_bounce.vpcf_c"
+	destpath "particles/impact_fx/impact_dirt_child_bounce.vpcf_c"
+	p4cl "2582162"
+	md5 "88B95DA6BE8D2F5813840FF3CDF91A98"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_dirt_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_dirt_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "54CA33F3922A9C5BB3C4D1839F3F9E39"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_dirt_child_burst.vpcf_c"
+	destpath "particles/impact_fx/impact_dirt_child_burst.vpcf_c"
+	p4cl "2582162"
+	md5 "EBA120792260B6255C43C15680DF04F1"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_dirt_child_burst2.vpcf_c"
+	destpath "particles/impact_fx/impact_dirt_child_burst2.vpcf_c"
+	p4cl "2582162"
+	md5 "D96F89BE9624A6480AC902731609063A"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_metal_child_glow.vpcf_c"
+	destpath "particles/impact_fx/impact_metal_child_glow.vpcf_c"
+	p4cl "2582162"
+	md5 "912FCA71ABFC54E8245D242D7E4F19B7"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_metal_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_metal_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "7E936CD1F6824A28D34D2B5EB13AC1D7"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_metal_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_metal_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "F7432DEBA281483C03745343B98722DA"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_metal_child_glow2.vpcf_c"
+	destpath "particles/impact_fx/impact_metal_child_glow2.vpcf_c"
+	p4cl "2582162"
+	md5 "B61C58C09B96BDA9430D40BCA5E5F06F"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_grass_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_grass_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "BC06A8E1FE4DC2690EEE80D32195A184"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_glass_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_glass_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "8E4CAFF74C3FE676E7D61EEFD2C55144"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plastic_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_plastic_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "9767AE6D73580C41259F6A0911F2E4E9"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_clay_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_clay_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "C368D72ACC815D62165E89BFA8B1E706"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_clay_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_clay_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "F4F0843B038ECFC6046E53BAB5B9F4BE"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_leaves_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_leaves_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "9C200757B847C7B1E37B9B759E385AF3"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_leaves_child_bits.vpcf_c"
+	destpath "particles/impact_fx/impact_leaves_child_bits.vpcf_c"
+	p4cl "2582162"
+	md5 "D3131A4D2A8A198C98AFF443A30EFDC4"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_leaves_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_leaves_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "6B6C9BD75A99B47CE64EA453C17A1468"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_electronic_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_electronic_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "889C64E33E0BA4309AAF8C633D4C6EB5"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_generic_smoke_small.vpcf_c"
+	destpath "particles/impact_fx/impact_generic_smoke_small.vpcf_c"
+	p4cl "2582162"
+	md5 "C5A3034F9FC53CFB952288C3D08A4E61"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_asphalt_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_asphalt_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "AE3515CBFD3BCCAD7FE27BACE77D1C37"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_generic_burn.vpcf_c"
+	destpath "particles/impact_fx/impact_generic_burn.vpcf_c"
+	p4cl "2582162"
+	md5 "D163CFDC00EBD8D683EE2743F04A1F40"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_wet_child_splash.vpcf_c"
+	destpath "particles/impact_fx/impact_wet_child_splash.vpcf_c"
+	p4cl "2582162"
+	md5 "B641DCEAF9C7DF19401AF48113AA75F4"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_tile_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_tile_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "25CBA22EC6FF5081D61C0D7B97CD7752"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_tile_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_tile_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "F576ACC377BB9BB1E3C225C70260C5C4"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_cardboard_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_cardboard_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "4B2C5B61567EBCE18C512ADD503617D4"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_cardboard_child_bits.vpcf_c"
+	destpath "particles/impact_fx/impact_cardboard_child_bits.vpcf_c"
+	p4cl "2582162"
+	md5 "BE905B8D78D97D66A7D5B3C0E096F04D"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_cardboard_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_cardboard_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "EE98FE210334B866FA5A2DB3E3D42372"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_wood_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_wood_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "38C0137E9AA10D93819A831A0F6805AC"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_wood_child_burn.vpcf_c"
+	destpath "particles/impact_fx/impact_wood_child_burn.vpcf_c"
+	p4cl "2582162"
+	md5 "A11663E4DB8F89E4DFC38008E7AA3D97"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_wood_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_wood_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "545DBFD4C393E2E0DCB82BA81721D466"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_wood_child_burst.vpcf_c"
+	destpath "particles/impact_fx/impact_wood_child_burst.vpcf_c"
+	p4cl "2582162"
+	md5 "B9A222066AE6B31458668941E5E8BB30"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_wood_child_chunks.vpcf_c"
+	destpath "particles/impact_fx/impact_wood_child_chunks.vpcf_c"
+	p4cl "2582162"
+	md5 "D9A844C57C6FC2A055B5C516AA9F326B"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_glass_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_glass_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "C1F816E22A74EEFEC00B63BED5399BE4"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_glass_child_bits.vpcf_c"
+	destpath "particles/impact_fx/impact_glass_child_bits.vpcf_c"
+	p4cl "2582162"
+	md5 "B56072958F59019F43A4D5EB3D5C6D0E"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_notrails.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_notrails.vpcf_c"
+	p4cl "2582162"
+	md5 "9154BF073BB3FC641C0407DC1CD9A867"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_child_smoketrails.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_child_smoketrails.vpcf_c"
+	p4cl "2582162"
+	md5 "10A5424AAC7EE54A19BCAC65EC383133"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_child_bits.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_child_bits.vpcf_c"
+	p4cl "2582162"
+	md5 "AC5A1CEE1F93CE1F9EA0CCF768E4E1CE"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "86B676A4B8E9BD9DB38C1FD45D54CBAB"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_child_smoke2.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_child_smoke2.vpcf_c"
+	p4cl "2582162"
+	md5 "E5D42EF7DB3AB7F54CF8ED8BDFE781A9"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "9A6EC8AA5823CF48F84698E7EFCE56B9"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_child_burst_2.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_child_burst_2.vpcf_c"
+	p4cl "2582162"
+	md5 "9588B2F34094FA37277F289C217FC65D"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_child_burst.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_child_burst.vpcf_c"
+	p4cl "2582162"
+	md5 "E378DE5BFF23F52F0E74531661F352E2"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_notrails_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_notrails_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "FA3B9C24D5C44A83DEB0E90BE4056621"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_rock_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_rock_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "9769C797AE5EADDF5448571C5B75FF32"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_rock_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_rock_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "485CBE01136E706C33620AD698629CB7"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_rubber_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_rubber_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "473DE6C3E483269D6762A04F3B225FF6"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_rubber_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_rubber_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "8B30B48C6E53ED38DAF04BCCDB1CCAFC"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_sheetrock_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_sheetrock_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "D9569DE5713D8BCE006992B77C93122C"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_sheetrock_child_bits.vpcf_c"
+	destpath "particles/impact_fx/impact_sheetrock_child_bits.vpcf_c"
+	p4cl "2582162"
+	md5 "9735BB033459233D34083F497DA1C1C5"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_sheetrock_child_bits2.vpcf_c"
+	destpath "particles/impact_fx/impact_sheetrock_child_bits2.vpcf_c"
+	p4cl "2582162"
+	md5 "F0D15F63A580FD3C60C01D2725C8337B"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_sheetrock_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_sheetrock_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "C25369CB93F0036359434733D3EC5D44"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_sheetrock_cheap_2.vpcf_c"
+	destpath "particles/impact_fx/impact_sheetrock_cheap_2.vpcf_c"
+	p4cl "2582162"
+	md5 "A7480197800DA3AB32148DCE9B08564A"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_upholstery_child_smoke.vpcf_c"
+	destpath "particles/impact_fx/impact_upholstery_child_smoke.vpcf_c"
+	p4cl "2582162"
+	md5 "A8416F0E24F1288464B1C3366CAA7E7C"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_carpet_child_burn.vpcf_c"
+	destpath "particles/impact_fx/impact_carpet_child_burn.vpcf_c"
+	p4cl "2582162"
+	md5 "A73E9068ADA4BF8C0DAE9BE5144E06CC"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_upholstery_child_burn.vpcf_c"
+	destpath "particles/impact_fx/impact_upholstery_child_burn.vpcf_c"
+	p4cl "2582162"
+	md5 "0245F3FA38A3316831E421756ACE4CC6"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_upholstery_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_upholstery_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "EEFAF5D3F2A199D68A9CDE205810B042"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_upholstery_child_burst.vpcf_c"
+	destpath "particles/impact_fx/impact_upholstery_child_burst.vpcf_c"
+	p4cl "2582162"
+	md5 "C941EA4C77057AB491146D818548DADF"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_puddle_ring.vpcf_c"
+	destpath "particles/impact_fx/impact_puddle_ring.vpcf_c"
+	p4cl "2582162"
+	md5 "E2A37A44A353D81B98B195AC3DDA304F"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_water_child_smallrings.vpcf_c"
+	destpath "particles/impact_fx/impact_water_child_smallrings.vpcf_c"
+	p4cl "2582162"
+	md5 "C68FF722A3D9E3E64A6F7D64C845E4F5"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_water_cheap.vpcf_c"
+	destpath "particles/impact_fx/impact_water_cheap.vpcf_c"
+	p4cl "2582162"
+	md5 "70DC7FD56AEFBC74A17CB50573023235"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_water_child_froth.vpcf_c"
+	destpath "particles/impact_fx/impact_water_child_froth.vpcf_c"
+	p4cl "2582162"
+	md5 "96BCA17D9619C58BB0B82631F7F657FC"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_water_child_rings.vpcf_c"
+	destpath "particles/impact_fx/impact_water_child_rings.vpcf_c"
+	p4cl "2582162"
+	md5 "1A32A6FFE8D240492D19AB034648D026"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_water_child_bits.vpcf_c"
+	destpath "particles/impact_fx/impact_water_child_bits.vpcf_c"
+	p4cl "2582162"
+	md5 "84BB90E74D612E2734925B91477A1C58"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_water_child_base.vpcf_c"
+	destpath "particles/impact_fx/impact_water_child_base.vpcf_c"
+	p4cl "2582162"
+	md5 "9741C17249887B57B23A71F02BC97E58"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/fire_cloud1_color_tga_1f44e070.vtex_c"
+	destpath "materials/effects/fire_cloud1_color_tga_1f44e070.vtex_c"
+	p4cl "2941218"
+	md5 "C6F173C57E3693BCC79B9556810A02B6"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/fire_embers3_color_tga_6cc8452a.vtex_c"
+	destpath "materials/effects/fire_embers3_color_tga_6cc8452a.vtex_c"
+	p4cl "2941218"
+	md5 "320B209376D36412D538DE6A86D725A0"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/splash3_color_tga_2c0fe2f1.vtex_c"
+	destpath "materials/effects/splash3_color_tga_2c0fe2f1.vtex_c"
+	p4cl "2941218"
+	md5 "65A6F8F7CC307663E95CFEC653EE915F"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/particle_smokegrenade_color_tga_c69b4436.vtex_c"
+	destpath "materials/particle/particle_smokegrenade_color_tga_c69b4436.vtex_c"
+	p4cl "2941218"
+	md5 "34A42D1110F1B4F0D682D6E62A2AA155"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/sprites/laserbeam_tga_65f4c89b.vtex_c"
+	destpath "materials/sprites/laserbeam_tga_65f4c89b.vtex_c"
+	p4cl "2941218"
+	md5 "353E242985E37891093151984417546F"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/effects/tesla_glow_color_tga_950cb3fd.vtex_c"
+	destpath "materials/effects/tesla_glow_color_tga_950cb3fd.vtex_c"
+	p4cl "2941218"
+	md5 "C4039D664F1E98A301DDE58D6514CBE3"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/autoaim_tga_63c9a780.vtex_c"
+	destpath "materials/vgui/hud/autoaim_tga_63c9a780.vtex_c"
+	p4cl "2941218"
+	md5 "E53F54FFE62B1A9081C2C9DB8E213797"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/vgui/hud/xbox_reticle_tga_3ee99e66.vtex_c"
+	destpath "materials/vgui/hud/xbox_reticle_tga_3ee99e66.vtex_c"
+	p4cl "2941218"
+	md5 "27D544EEE0C88794E3C133891B753303"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_cheap_2.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_cheap_2.vpcf_c"
+	p4cl "2582162"
+	md5 "7905ED3BA054C3FB07DDFEBD2D79FF3C"
+}
+file
+{
+	srcpath "game/portal2_imported/particles/impact_fx/impact_plaster_child_smoke3.vpcf_c"
+	destpath "particles/impact_fx/impact_plaster_child_smoke3.vpcf_c"
+	p4cl "2582162"
+	md5 "A0658B2E3B32037AA54BF2F2ACD6A27C"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/warp_ripple2_normal.vtex_c"
+	destpath "materials/particle/warp_ripple2_normal.vtex_c"
+	p4cl "2941218"
+	md5 "08713923211386B7B7E9516901B59EAA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/arm_ext_qrt_rows_3x1.vmdl_c"
+	destpath "models/a4_destruction/arm_ext_qrt_rows_3x1.vmdl_c"
+	p4cl "2578210"
+	md5 "279B7E9E58471813BF54F2DD4336E5AA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/arm_ext_qrt_rows_4x1.vmdl_c"
+	destpath "models/a4_destruction/arm_ext_qrt_rows_4x1.vmdl_c"
+	p4cl "2578210"
+	md5 "319F89369064EA887FD78522662A5BA3"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/bts_chambercluster_01.vmdl_c"
+	destpath "models/a4_destruction/bts_chambercluster_01.vmdl_c"
+	p4cl "2578210"
+	md5 "3C0DAAADF440D7219BC8D2889382A2BD"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/bts_chambercluster_02.vmdl_c"
+	destpath "models/a4_destruction/bts_chambercluster_02.vmdl_c"
+	p4cl "2578210"
+	md5 "314052718B9FF30D1F387A777210ED18"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/fin3_background_elements.vmdl_c"
+	destpath "models/a4_destruction/fin3_background_elements.vmdl_c"
+	p4cl "2578210"
+	md5 "F7C82F94F6DC101B8C1FF50F21DC45C1"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/fin3_background_elements_alt.vmdl_c"
+	destpath "models/a4_destruction/fin3_background_elements_alt.vmdl_c"
+	p4cl "2578210"
+	md5 "097CA734134DF34DB5B8103D2730CC80"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/floor_track/floor_railing_a.vmdl_c"
+	destpath "models/anim_wp/floor_track/floor_railing_a.vmdl_c"
+	p4cl "2578210"
+	md5 "D81A972608540805544187951474CF78"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/framework/squarebeam_off.vmdl_c"
+	destpath "models/anim_wp/framework/squarebeam_off.vmdl_c"
+	p4cl "2578210"
+	md5 "A6D42512F7D40FC6D3BA85D1194800AC"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/framework/squarebeam_off_128.vmdl_c"
+	destpath "models/anim_wp/framework/squarebeam_off_128.vmdl_c"
+	p4cl "2578210"
+	md5 "E82C71947EC47042CA21C123288FFB0F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/framework/squarebeam_off_2x2.vmdl_c"
+	destpath "models/anim_wp/framework/squarebeam_off_2x2.vmdl_c"
+	p4cl "2578210"
+	md5 "95314BF465018ED82C412CA69DA2F485"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/framework/squarebeam_off_4x4.vmdl_c"
+	destpath "models/anim_wp/framework/squarebeam_off_4x4.vmdl_c"
+	p4cl "2578210"
+	md5 "D596DDA449F69382A31AFD990A1A3634"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/framework/squarebeam_off_8x8.vmdl_c"
+	destpath "models/anim_wp/framework/squarebeam_off_8x8.vmdl_c"
+	p4cl "2578210"
+	md5 "03ECF89C238BBA8002CB8C726877551F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/telescope_arm_128/telescope_arm_128.vmdl_c"
+	destpath "models/anim_wp/telescope_arm_128/telescope_arm_128.vmdl_c"
+	p4cl "2578210"
+	md5 "4D2397FC89B461B82A90BFDDCCAAB3C8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/container_ride/container_lolorez.vmdl_c"
+	destpath "models/container_ride/container_lolorez.vmdl_c"
+	p4cl "2578210"
+	md5 "369F58DEE35FB5BA6CE807D7F3584CDF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set01/128_fuse_set01.vmdl_c"
+	destpath "models/props/128_fuse_set01/128_fuse_set01.vmdl_c"
+	p4cl "2579411"
+	md5 "58D164F96D9093116055C276A490304C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set04/128_fuse_set04.vmdl_c"
+	destpath "models/props/128_fuse_set04/128_fuse_set04.vmdl_c"
+	p4cl "2579411"
+	md5 "791D250FDDF550EA764063462403A982"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set05/128_fuse_set05.vmdl_c"
+	destpath "models/props/128_fuse_set05/128_fuse_set05.vmdl_c"
+	p4cl "2579411"
+	md5 "0D36334D5B12A4600E094A52AE52ADB8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set07/128_fuse_set07.vmdl_c"
+	destpath "models/props/128_fuse_set07/128_fuse_set07.vmdl_c"
+	p4cl "2579411"
+	md5 "F7EC79F9629BAF4880245B74FFB7F9A7"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set09/128_fuse_set09.vmdl_c"
+	destpath "models/props/128_fuse_set09/128_fuse_set09.vmdl_c"
+	p4cl "2579411"
+	md5 "EEDC1D449689DB378744EDBB22953E6C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set10/128_fuse_set10.vmdl_c"
+	destpath "models/props/128_fuse_set10/128_fuse_set10.vmdl_c"
+	p4cl "2579411"
+	md5 "8ECB5277667577E2757A7803EDD64B47"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/item_dropper.vmdl_c"
+	destpath "models/props_backstage/item_dropper.vmdl_c"
+	p4cl "2579411"
+	md5 "112BF8C9B01303857DFE9DEBDB6853DB"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_corner_a.vmdl_c"
+	destpath "models/props_backstage/triple_wallpipe_corner_a.vmdl_c"
+	p4cl "2579411"
+	md5 "6CDB95BF2FE9898A12936A5D0A29011E"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_corner_c.vmdl_c"
+	destpath "models/props_backstage/triple_wallpipe_corner_c.vmdl_c"
+	p4cl "2579411"
+	md5 "E80BCF88F38D51254D7C584566189947"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_entrance_a.vmdl_c"
+	destpath "models/props_backstage/triple_wallpipe_entrance_a.vmdl_c"
+	p4cl "2579411"
+	md5 "EEE115DBDF62C3BB93C5BC8211099656"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_entrance_b.vmdl_c"
+	destpath "models/props_backstage/triple_wallpipe_entrance_b.vmdl_c"
+	p4cl "2579411"
+	md5 "9A6F6586C001297649C1404EAEA560BB"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_a.vmdl_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_a.vmdl_c"
+	p4cl "2579411"
+	md5 "D8F0BC05F3581ABDC046037D0BB52869"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_b.vmdl_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_b.vmdl_c"
+	p4cl "2579411"
+	md5 "2514AD69E5BBBA788DFDF7078C619988"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_c.vmdl_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_c.vmdl_c"
+	p4cl "2579411"
+	md5 "D9EDD11FB8585DDA2C66D7AC922DBBAC"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_f.vmdl_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_f.vmdl_c"
+	p4cl "2579411"
+	md5 "3EC8DBF2045102FCAF725500A219F75B"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/vacum_entrance_a.vmdl_c"
+	destpath "models/props_backstage/vacum_entrance_a.vmdl_c"
+	p4cl "2579411"
+	md5 "C5E71F20A4A379E75163218EF76860D9"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/vacum_flange_a.vmdl_c"
+	destpath "models/props_backstage/vacum_flange_a.vmdl_c"
+	p4cl "2579411"
+	md5 "59940129C7458FFFF1AEFF35BF690E37"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/vacum_scanner_b.vmdl_c"
+	destpath "models/props_backstage/vacum_scanner_b.vmdl_c"
+	p4cl "2579411"
+	md5 "2E35562E10D5E372121D56FEAFCB4AA6"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/cable_hanging_05.vmdl_c"
+	destpath "models/props_bts/cable_hanging_05.vmdl_c"
+	p4cl "2579411"
+	md5 "57C9625E76B52F2D4D3A1FBA67FB865D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_carriage_a.vmdl_c"
+	destpath "models/props_bts/gantry_carriage_a.vmdl_c"
+	p4cl "2579411"
+	md5 "1A10C7DB9318D4093736F4286C31605A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_hoist_a.vmdl_c"
+	destpath "models/props_bts/gantry_hoist_a.vmdl_c"
+	p4cl "2579411"
+	md5 "FA96545AF940636740D1066988DA743E"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_rails_a.vmdl_c"
+	destpath "models/props_bts/gantry_rails_a.vmdl_c"
+	p4cl "2579411"
+	md5 "57EC2DCB51C225156BA422CC9DFE31FC"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_truss_a.vmdl_c"
+	destpath "models/props_bts/gantry_truss_a.vmdl_c"
+	p4cl "2579411"
+	md5 "0EFAE58F3C0DE022C6675E9BEB2A08D3"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_stair_128.vmdl_c"
+	destpath "models/props_bts/hanging_stair_128.vmdl_c"
+	p4cl "2579411"
+	md5 "AE06917E455780430F9CB2DFCDC75B41"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_stair_256.vmdl_c"
+	destpath "models/props_bts/hanging_stair_256.vmdl_c"
+	p4cl "2579411"
+	md5 "55711FB6164A97A3B305C96244A9C298"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_stair_landing_a.vmdl_c"
+	destpath "models/props_bts/hanging_stair_landing_a.vmdl_c"
+	p4cl "2579411"
+	md5 "5E628BAE09EB1EFC6872D752CF01CDA8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_128a.vmdl_c"
+	destpath "models/props_bts/hanging_walkway_128a.vmdl_c"
+	p4cl "2579411"
+	md5 "BFF5BB21FA92723D997B5A7AE2FF5689"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_128b.vmdl_c"
+	destpath "models/props_bts/hanging_walkway_128b.vmdl_c"
+	p4cl "2579411"
+	md5 "9ED9E42A5FD5CE06777B61906898A49D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_256a.vmdl_c"
+	destpath "models/props_bts/hanging_walkway_256a.vmdl_c"
+	p4cl "2579411"
+	md5 "C76DD1C9B1A1C3C34EF9B803FD2F1E10"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_32b.vmdl_c"
+	destpath "models/props_bts/hanging_walkway_32b.vmdl_c"
+	p4cl "2579411"
+	md5 "EBC35FB9646E1ED3B2182A3612F39A62"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_corner.vmdl_c"
+	destpath "models/props_bts/hanging_walkway_corner.vmdl_c"
+	p4cl "2579411"
+	md5 "49E40C9094F29FB8DE2865D9BEF37FB0"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_end_cap.vmdl_c"
+	destpath "models/props_bts/hanging_walkway_end_cap.vmdl_c"
+	p4cl "2579411"
+	md5 "F8805288F3FA828D8A279E6510A79211"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_l.vmdl_c"
+	destpath "models/props_bts/hanging_walkway_l.vmdl_c"
+	p4cl "2579411"
+	md5 "2CE94D195A8A5E1109B332BF7D254F92"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_t.vmdl_c"
+	destpath "models/props_bts/hanging_walkway_t.vmdl_c"
+	p4cl "2579411"
+	md5 "383313803BC2BA7C4055E0BF4F0917AE"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/huge_fan_inner_rim.vmdl_c"
+	destpath "models/props_bts/huge_fan_inner_rim.vmdl_c"
+	p4cl "2579411"
+	md5 "5411C57FC3F263F2A8CB5676EC4ECD36"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/huge_fan_rim.vmdl_c"
+	destpath "models/props_bts/huge_fan_rim.vmdl_c"
+	p4cl "2579411"
+	md5 "611AFC4E29277B9CD9B8A7F4F394B5E8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/lab_pod_b_destroyed01.vmdl_c"
+	destpath "models/props_bts/lab_pod_b_destroyed01.vmdl_c"
+	p4cl "2579411"
+	md5 "74F6B4830F9033F0EC5B08CC1B41EA8A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/lamp_hanging.vmdl_c"
+	destpath "models/props_bts/lamp_hanging.vmdl_c"
+	p4cl "2579411"
+	md5 "2E77B03749989E4E46B99ABAE8B844D3"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/light_cage001a.vmdl_c"
+	destpath "models/props_bts/light_cage001a.vmdl_c"
+	p4cl "2579411"
+	md5 "3031F9D7DEBD63D42C467FFAE3B44F7F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/light_hanging_1a.vmdl_c"
+	destpath "models/props_bts/light_hanging_1a.vmdl_c"
+	p4cl "2579411"
+	md5 "5E7A05A77E84C4A0F9E389836FDFC3ED"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pillar_64_vert_mid_01a.vmdl_c"
+	destpath "models/props_bts/pillar_64_vert_mid_01a.vmdl_c"
+	p4cl "2579411"
+	md5 "889EDC237F18F0CF03B819BF0C17B948"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pillar_64_vert_mid_02a.vmdl_c"
+	destpath "models/props_bts/pillar_64_vert_mid_02a.vmdl_c"
+	p4cl "2579411"
+	md5 "EB80ACFC6FA9D45156E95BFDD1EBB456"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pillar_64_vert_mid_03a.vmdl_c"
+	destpath "models/props_bts/pillar_64_vert_mid_03a.vmdl_c"
+	p4cl "2579411"
+	md5 "54DF6DBCF08A1B811C9CC676BA61A284"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pressure_sphere.vmdl_c"
+	destpath "models/props_bts/pressure_sphere.vmdl_c"
+	p4cl "2579411"
+	md5 "09DDB5DD74DECE0AB9C2235CC588E2D3"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/roommover_mainbeam_256.vmdl_c"
+	destpath "models/props_bts/roommover_mainbeam_256.vmdl_c"
+	p4cl "2579411"
+	md5 "FF7440E5AA717FA188317F4238C06D5D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/roommover_mainbeam_clamp.vmdl_c"
+	destpath "models/props_bts/roommover_mainbeam_clamp.vmdl_c"
+	p4cl "2579411"
+	md5 "F5D91531BD91F34151DCF382737AC43B"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/roommover_movebeam_256.vmdl_c"
+	destpath "models/props_bts/roommover_movebeam_256.vmdl_c"
+	p4cl "2579411"
+	md5 "305A327D43D26D11453C00A54E0FE442"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/roommover_movebeam_front.vmdl_c"
+	destpath "models/props_bts/roommover_movebeam_front.vmdl_c"
+	p4cl "2579411"
+	md5 "1BA9A5829F0FFB464EB4D6BD7481469C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/scaffolding_system_01.vmdl_c"
+	destpath "models/props_bts/scaffolding_system_01.vmdl_c"
+	p4cl "2579411"
+	md5 "8325B393FA7CE8CB717B948FED7C1166"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/scaffolding_system_06.vmdl_c"
+	destpath "models/props_bts/scaffolding_system_06.vmdl_c"
+	p4cl "2579411"
+	md5 "AE2C62F0B5D1E4D6F73D2C3B928D929D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/scaffolding_system_bars_512.vmdl_c"
+	destpath "models/props_bts/scaffolding_system_bars_512.vmdl_c"
+	p4cl "2579411"
+	md5 "0A9FDC7E43EB9C2B85341F1C46BFBF0D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_cable_cluster01.vmdl_c"
+	destpath "models/props_bts/silhouette_cable_cluster01.vmdl_c"
+	p4cl "2579411"
+	md5 "DB93B4186B4C56746D7A3A064EA0F545"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure01.vmdl_c"
+	destpath "models/props_bts/silhouette_structure01.vmdl_c"
+	p4cl "2579411"
+	md5 "FCD6CC9345F416ABEF1D54771F0ECA36"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure02.vmdl_c"
+	destpath "models/props_bts/silhouette_structure02.vmdl_c"
+	p4cl "2579411"
+	md5 "047BE67C9CCBAE4CEA58F05DEA72A5C0"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure03.vmdl_c"
+	destpath "models/props_bts/silhouette_structure03.vmdl_c"
+	p4cl "2579411"
+	md5 "4F46A88C2B95C49439D61AB3032ABDDA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure04.vmdl_c"
+	destpath "models/props_bts/silhouette_structure04.vmdl_c"
+	p4cl "2579411"
+	md5 "6E28E7B86234D307C300D1D0AEB2D302"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure05.vmdl_c"
+	destpath "models/props_bts/silhouette_structure05.vmdl_c"
+	p4cl "2579411"
+	md5 "8818BE061E8BEA12BFB28169E03F02AB"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure06.vmdl_c"
+	destpath "models/props_bts/silhouette_structure06.vmdl_c"
+	p4cl "2579411"
+	md5 "5F56D1AB8A224A55DF3065E946C70FC6"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure08.vmdl_c"
+	destpath "models/props_bts/silhouette_structure08.vmdl_c"
+	p4cl "2579411"
+	md5 "13740A3E08AB263BEE7786F83B65F7E9"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_window_01.vmdl_c"
+	destpath "models/props_bts/silhouette_window_01.vmdl_c"
+	p4cl "2579411"
+	md5 "156F98923A546EFAC7191B3B0740935D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/truss_1024.vmdl_c"
+	destpath "models/props_bts/truss_1024.vmdl_c"
+	p4cl "2579411"
+	md5 "BC0DDE38F9E730200FD44E4C2A09AD24"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/truss_1024_cheap.vmdl_c"
+	destpath "models/props_bts/truss_1024_cheap.vmdl_c"
+	p4cl "2579411"
+	md5 "7D703FFFDAF1B0A4A7D734C25950D6F6"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight.vmdl_c"
+	destpath "models/props_bts/vactube_128_straight.vmdl_c"
+	p4cl "2579411"
+	md5 "BC5AB7A8796C2CEB007A81225AD1D026"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_b.vmdl_c"
+	destpath "models/props_bts/vactube_128_straight_b.vmdl_c"
+	p4cl "2579411"
+	md5 "DDE46896FF04139EB5A792502FB5F07F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_01.vmdl_c"
+	destpath "models/props_bts/vactube_90deg_01.vmdl_c"
+	p4cl "2579411"
+	md5 "2AE63D7230B4473F0E4521EF822CEB54"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_02.vmdl_c"
+	destpath "models/props_bts/vactube_90deg_02.vmdl_c"
+	p4cl "2579411"
+	md5 "CF25E765383CD65197FB2162E7221CC3"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_connector.vmdl_c"
+	destpath "models/props_bts/vactube_connector.vmdl_c"
+	p4cl "2579411"
+	md5 "F6EE008675782B60FCDDDE43243F3F95"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_crossroads.vmdl_c"
+	destpath "models/props_bts/vactube_crossroads.vmdl_c"
+	p4cl "2579411"
+	md5 "C2149C138B30BE6EDE2D428FEBDD333E"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/factory_panel_portalable_128x128.vmdl_c"
+	destpath "models/props_factory/factory_panel_portalable_128x128.vmdl_c"
+	p4cl "2579411"
+	md5 "EAC680EC63FE54FC29F68A28146A56B5"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/neurotoxin_tank.vmdl_c"
+	destpath "models/props_factory/neurotoxin_tank.vmdl_c"
+	p4cl "2579411"
+	md5 "4F865C81D7A942B64E6BE61444C969B2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory.vmdl_c"
+	destpath "models/props_factory/turret_factory.vmdl_c"
+	p4cl "2579411"
+	md5 "B410A4BF9B665F88ADC6D63A220B79DB"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory_ajar/turret_factory_ajar.vmdl_c"
+	destpath "models/props_factory/turret_factory_ajar/turret_factory_ajar.vmdl_c"
+	p4cl "2579411"
+	md5 "52242C1CB9AACFEDFD35F7A00A52A746"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory_closed.vmdl_c"
+	destpath "models/props_factory/turret_factory_closed.vmdl_c"
+	p4cl "2579411"
+	md5 "05B7F407473D0467E1088AA34490F934"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_gameplay/industrial_elevator_a.vmdl_c"
+	destpath "models/props_gameplay/industrial_elevator_a.vmdl_c"
+	p4cl "2579411"
+	md5 "58A44E295406C2E558585187B0B2F12B"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_192.vmdl_c"
+	destpath "models/props_lab/window_192.vmdl_c"
+	p4cl "2579411"
+	md5 "422C7E3247F6B1CAD9343DDA07EBE7E1"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_192_a.vmdl_c"
+	destpath "models/props_lab/window_192_a.vmdl_c"
+	p4cl "2579411"
+	md5 "4CFA06D8BD30D524BB302F09DDADAB48"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_256.vmdl_c"
+	destpath "models/props_lab/window_256.vmdl_c"
+	p4cl "2579411"
+	md5 "D232276BD4EF017E089EBDD60DC8432C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_256_a.vmdl_c"
+	destpath "models/props_lab/window_256_a.vmdl_c"
+	p4cl "2579411"
+	md5 "5B4C7D096ED6792DE132832A923965C6"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lights/stage_light01.vmdl_c"
+	destpath "models/props_lights/stage_light01.vmdl_c"
+	p4cl "2579411"
+	md5 "A79F09DF1C11DF3FA381789FBEFA7D38"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_cabinet01.vmdl_c"
+	destpath "models/props_office/computer_cabinet01.vmdl_c"
+	p4cl "2579411"
+	md5 "1EFA102C8605F403356EF028ADC9BC19"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_cabinet02.vmdl_c"
+	destpath "models/props_office/computer_cabinet02.vmdl_c"
+	p4cl "2579411"
+	md5 "0E143548CAFAD139E220902BC77B4523"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_tall01.vmdl_c"
+	destpath "models/props_office/computer_tall01.vmdl_c"
+	p4cl "2579411"
+	md5 "B6A0CBD2CE7306A0FDC205BF55BF6F42"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_tall02.vmdl_c"
+	destpath "models/props_office/computer_tall02.vmdl_c"
+	p4cl "2579411"
+	md5 "082D878F1B5DC075DA2C23CFA2BCAF8D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/control_desk_r.vmdl_c"
+	destpath "models/props_office/control_desk_r.vmdl_c"
+	p4cl "2579411"
+	md5 "F75A18390F23864B203AB1F0C9830514"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/office_light002.vmdl_c"
+	destpath "models/props_office/office_light002.vmdl_c"
+	p4cl "2579411"
+	md5 "3E38C500CC9D46CC209123B43B42791B"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/aperture_sign_1940_01.vmdl_c"
+	destpath "models/props_underground/aperture_sign_1940_01.vmdl_c"
+	p4cl "2579411"
+	md5 "129935C53AC213B0B989E0D7F3591917"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/tank_a_256x512.vmdl_c"
+	destpath "models/props_underground/tank_a_256x512.vmdl_c"
+	p4cl "2579411"
+	md5 "18346315C0519798B27671FE27BB9EFA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/tank_a_384x768.vmdl_c"
+	destpath "models/props_underground/tank_a_384x768.vmdl_c"
+	p4cl "2579411"
+	md5 "4777C6C3D8071B0F6F0DEF0E42A4D5B1"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/truss_64_128.vmdl_c"
+	destpath "models/props_underground/truss_64_128.vmdl_c"
+	p4cl "2579411"
+	md5 "B5C20B7EA6F1DBA6D7D6ABFE8AA2F7C8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/truss_64_256.vmdl_c"
+	destpath "models/props_underground/truss_64_256.vmdl_c"
+	p4cl "2579411"
+	md5 "BCA9EEBCDE30EE2D0EC32D9A77796907"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/underground_door_dynamic.vmdl_c"
+	destpath "models/props_underground/underground_door_dynamic.vmdl_c"
+	p4cl "2579411"
+	md5 "4A29F9B4E8A55D959348558E3F150E47"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/metal/underground_wall_metal004d.vmat_c"
+	destpath "materials/metal/underground_wall_metal004d.vmat_c"
+	p4cl "2941218"
+	md5 "7EA46E98BC8965DB3899A8D64BD8983B"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/metal/metalbeam_bts_001b.vmat_c"
+	destpath "materials/metal/metalbeam_bts_001b.vmat_c"
+	p4cl "2941218"
+	md5 "0F65C95F43DD8863DDDD8489ED8B29F5"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/concrete/concrete_bts_floor001a.vmat_c"
+	destpath "materials/concrete/concrete_bts_floor001a.vmat_c"
+	p4cl "2941218"
+	md5 "C5641895D23EA8DEBABA40670F7BAC05"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/arm_ext_qrt_rows_3x1_bg_default_lod0.vmesh_c"
+	destpath "models/a4_destruction/arm_ext_qrt_rows_3x1_bg_default_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "50F8CB1FD193D00C596EEE885A727AAA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/arm_ext_qrt_rows_4x1_bg_default_lod0.vmesh_c"
+	destpath "models/a4_destruction/arm_ext_qrt_rows_4x1_bg_default_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "581D35800B926D4FCE25FB2C45EEEA01"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/bts_chambercluster_01_bg_default_lod0.vmesh_c"
+	destpath "models/a4_destruction/bts_chambercluster_01_bg_default_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "4BEBD6B4C3A5980B31686039CDFD1F74"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/bts_chambercluster_02_bg_default_lod0.vmesh_c"
+	destpath "models/a4_destruction/bts_chambercluster_02_bg_default_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "B56F4C98C659DEDE7C7A27822D7FBABF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/fin3_background_elements_bg_default_lod0.vmesh_c"
+	destpath "models/a4_destruction/fin3_background_elements_bg_default_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "E93D1F51D249F9504F10393C9CA4CDA4"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/fin3_background_elements_bg_clamped1_lod0.vmesh_c"
+	destpath "models/a4_destruction/fin3_background_elements_bg_clamped1_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "D94B444AB38686D51881B4C524669896"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/fin3_background_elements_bg_clamped2_lod0.vmesh_c"
+	destpath "models/a4_destruction/fin3_background_elements_bg_clamped2_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "C07FAE7EA6FE7F6DAE8024E7644ED0F4"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/fin3_background_elements_alt_bg_default_lod0.vmesh_c"
+	destpath "models/a4_destruction/fin3_background_elements_alt_bg_default_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "57422F76F0869CA3826A203229A6AD05"
+}
+file
+{
+	srcpath "game/portal2_imported/models/a4_destruction/fin3_background_elements_alt_bg_clamped1_lod0.vmesh_c"
+	destpath "models/a4_destruction/fin3_background_elements_alt_bg_clamped1_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "0A8BBCFB1E1B4E319DFD9EFBC247CF7A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/floor_track/floor_railing_a_bg_body_lod0.vmesh_c"
+	destpath "models/anim_wp/floor_track/floor_railing_a_bg_body_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "005A67A9F5C3A3348023AC9A4DCEC0DB"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/framework/squarebeam_off_bg_body_lod0.vmesh_c"
+	destpath "models/anim_wp/framework/squarebeam_off_bg_body_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "6E64103F0087F0159C2231F66B0D9589"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/anim_wp/framework/squarebeams_skin2.vmat_c"
+	destpath "materials/models/anim_wp/framework/squarebeams_skin2.vmat_c"
+	p4cl "2941218"
+	md5 "16500944D891F891590CA2BF0EE093AF"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/anim_wp/framework/squarebeams_skin3.vmat_c"
+	destpath "materials/models/anim_wp/framework/squarebeams_skin3.vmat_c"
+	p4cl "2941218"
+	md5 "A160F239BD7CFE511A5CAEDDFDB0F2B0"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/framework/squarebeam_off_128_bg_default_lod0.vmesh_c"
+	destpath "models/anim_wp/framework/squarebeam_off_128_bg_default_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "02584448A5827EE82E9D4A96F32086D2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/framework/squarebeam_off_2x2_bg_body_lod0.vmesh_c"
+	destpath "models/anim_wp/framework/squarebeam_off_2x2_bg_body_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "1AA3CEB0C69A44612A6BBFD7EF20826F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/framework/squarebeam_off_4x4_bg_default_lod0.vmesh_c"
+	destpath "models/anim_wp/framework/squarebeam_off_4x4_bg_default_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "5CFC85E3D0363799991AF0FB2266330A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/framework/squarebeam_off_8x8_bg_default_lod0.vmesh_c"
+	destpath "models/anim_wp/framework/squarebeam_off_8x8_bg_default_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "48F34942E057B37D7DC14035C6681292"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/telescope_arm_128/telescope_arm_128_bg_default_lod0.vmesh_c"
+	destpath "models/anim_wp/telescope_arm_128/telescope_arm_128_bg_default_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "6E1406D019A4AC02E0FC954AF18A1145"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/telescope_arm_128/telescope_arm_128.vphys_c"
+	destpath "models/anim_wp/telescope_arm_128/telescope_arm_128.vphys_c"
+	p4cl "2578210"
+	md5 "4DA8C34D3275C0089BF971FB722A5D25"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/telescope_arm_128/telescope_arm_128.vagrp_c"
+	destpath "models/anim_wp/telescope_arm_128/telescope_arm_128.vagrp_c"
+	p4cl "2578210"
+	md5 "67DAB3A9704503C41A8C25C642083587"
+}
+file
+{
+	srcpath "game/portal2_imported/models/container_ride/container_lolorez_bg_main_lod0.vmesh_c"
+	destpath "models/container_ride/container_lolorez_bg_main_lod0.vmesh_c"
+	p4cl "2578210"
+	md5 "516F979DF249403845108AA84A64AD68"
+}
+file
+{
+	srcpath "game/portal2_imported/models/container_ride/container_lolorez.vagrp_c"
+	destpath "models/container_ride/container_lolorez.vagrp_c"
+	p4cl "2578210"
+	md5 "6FBC0F01C0BF847F2017509921C89E86"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set01/128_fuse_set01_bg_128_fuse_set01_lod0.vmesh_c"
+	destpath "models/props/128_fuse_set01/128_fuse_set01_bg_128_fuse_set01_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "0290DF9A5F38C01F887A0A56C27F3FA1"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set01/128_fuse_set01.vphys_c"
+	destpath "models/props/128_fuse_set01/128_fuse_set01.vphys_c"
+	p4cl "2579411"
+	md5 "C3F893D80F6A57BCEC91E7DC46AD3B71"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set04/128_fuse_set04_bg_128_fuse_set04_lod0.vmesh_c"
+	destpath "models/props/128_fuse_set04/128_fuse_set04_bg_128_fuse_set04_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "35FFA92A69847356B0F1DA43A73417A2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set04/128_fuse_set04.vphys_c"
+	destpath "models/props/128_fuse_set04/128_fuse_set04.vphys_c"
+	p4cl "2579411"
+	md5 "F7B818E34B2D6CB48265D42CC042E384"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set05/128_fuse_set05_bg_128_fuse_set05_lod0.vmesh_c"
+	destpath "models/props/128_fuse_set05/128_fuse_set05_bg_128_fuse_set05_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "C0CB4082C8D5B03B8789568AE1DAB72C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set05/128_fuse_set05.vphys_c"
+	destpath "models/props/128_fuse_set05/128_fuse_set05.vphys_c"
+	p4cl "2579411"
+	md5 "D73F9781C90F73A30D4094DCE036E296"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set07/128_fuse_set07_bg_128_fuse_set07_lod0.vmesh_c"
+	destpath "models/props/128_fuse_set07/128_fuse_set07_bg_128_fuse_set07_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "BEF2AC77E8ACC165C5F1BC286B84BEB0"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set07/128_fuse_set07.vphys_c"
+	destpath "models/props/128_fuse_set07/128_fuse_set07.vphys_c"
+	p4cl "2579411"
+	md5 "10683B87C8742918A383F0D0CBA6E9B8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set09/128_fuse_set09_bg_128_fuse_set09_lod0.vmesh_c"
+	destpath "models/props/128_fuse_set09/128_fuse_set09_bg_128_fuse_set09_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "F896E6BB1C5E836C6CCA46BE519A6DDA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set09/128_fuse_set09.vphys_c"
+	destpath "models/props/128_fuse_set09/128_fuse_set09.vphys_c"
+	p4cl "2579411"
+	md5 "5B69A89751688ACE7C638AFA62D68A71"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set10/128_fuse_set10_bg_128_fuse_set10_lod0.vmesh_c"
+	destpath "models/props/128_fuse_set10/128_fuse_set10_bg_128_fuse_set10_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "4FC5BE3E542291E1FCA22E0A1CC7DB3C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props/128_fuse_set10/128_fuse_set10.vphys_c"
+	destpath "models/props/128_fuse_set10/128_fuse_set10.vphys_c"
+	p4cl "2579411"
+	md5 "7460298605249090F4BEB2BBDB026300"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/item_dropper_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/item_dropper_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "233ADF94F9E06423DEE4E18D85CE28D0"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/item_dropper_bg_default_lod1.vmesh_c"
+	destpath "models/props_backstage/item_dropper_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "BD597CA6B7A8D38B4DE8F0298A13404C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/item_dropper_bg_default_lod2.vmesh_c"
+	destpath "models/props_backstage/item_dropper_bg_default_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "C4FF7BBBAD3799CB70DD1A982C6D50E8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/item_dropper_bg_default_lod3.vmesh_c"
+	destpath "models/props_backstage/item_dropper_bg_default_lod3.vmesh_c"
+	p4cl "2579411"
+	md5 "AB985938654579A29DE2DC2BAF279B67"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/item_dropper.vphys_c"
+	destpath "models/props_backstage/item_dropper.vphys_c"
+	p4cl "2579411"
+	md5 "A35B718F6C519C2ACF6FFB8D73372E7E"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/item_dropper.vagrp_c"
+	destpath "models/props_backstage/item_dropper.vagrp_c"
+	p4cl "2579411"
+	md5 "6711007E7BD8ED7AF20F58CB773120F8"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_backstage/item_dropper_orange.vmat_c"
+	destpath "materials/models/props_backstage/item_dropper_orange.vmat_c"
+	p4cl "2941218"
+	md5 "FF7BB8AF353462D2BA3D8A4EDC7580EC"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_corner_a_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_corner_a_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "D22B4ED608BDD5FD9380AAA42F000DCA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_corner_a_bg_default_lod1.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_corner_a_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "58671A7F7D7BFE3ADD9FBE6BD65D1A2A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_corner_a.vphys_c"
+	destpath "models/props_backstage/triple_wallpipe_corner_a.vphys_c"
+	p4cl "2579411"
+	md5 "A4A38CBEDC25515D90BAD3DDAEA99A30"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_corner_c_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_corner_c_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "95C9A764C828E9818B39C8096AAEEE48"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_corner_c_bg_default_lod1.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_corner_c_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "775D85D6BA28BABB02DADB845D5471E1"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_corner_c.vphys_c"
+	destpath "models/props_backstage/triple_wallpipe_corner_c.vphys_c"
+	p4cl "2579411"
+	md5 "1979C24A6FBB6E25B238B0B39DF3EBA6"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_entrance_a_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_entrance_a_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "EA0FB7E84456D51A131504A1FF65118B"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_entrance_a_bg_default_lod1.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_entrance_a_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "36728276608D581DF4CFDFBB6CE9627C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_entrance_a.vphys_c"
+	destpath "models/props_backstage/triple_wallpipe_entrance_a.vphys_c"
+	p4cl "2579411"
+	md5 "FBB67A85687FC173B9E1578C13314089"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_entrance_b_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_entrance_b_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "6624B5E48F0B3FF874A8919B9C2C4C80"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_entrance_b_bg_default_lod1.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_entrance_b_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "E2818F8ABF588D44A93203BF30EC45C9"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_entrance_b.vphys_c"
+	destpath "models/props_backstage/triple_wallpipe_entrance_b.vphys_c"
+	p4cl "2579411"
+	md5 "0A45A3AA9E6AB93167C7F02FC0FB2B52"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_a_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_a_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "15E74B2595F23CD53567F59EDFC57C7B"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_a_bg_default_lod1.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_a_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "9660E720B433371952E785FBD2919F2C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_a.vphys_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_a.vphys_c"
+	p4cl "2579411"
+	md5 "1E826FBB4EF6B4B7BF6B50AA85F46222"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_b_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_b_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "DA87D730FE3496387FEBCE540BB0BC08"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_b_bg_default_lod1.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_b_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "31F58A11117DEBEFCC6686DC25027898"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_b.vphys_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_b.vphys_c"
+	p4cl "2579411"
+	md5 "397759F890133F36E71678202652C895"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_c_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_c_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "466835EBB88B7485BEF911AFC2D59B80"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_c_bg_default_lod1.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_c_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "3F09FFC520C7BD4B1BD3F391399D42C2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_c.vphys_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_c.vphys_c"
+	p4cl "2579411"
+	md5 "3702E644AE06D14BFFA7219C0B947585"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_f_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_f_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "60C5DDBC4A89B87B1812F414578981E3"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_f_bg_default_lod1.vmesh_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_f_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "D59815977B2E5332C1227C64C842C845"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/triple_wallpipe_straight_f.vphys_c"
+	destpath "models/props_backstage/triple_wallpipe_straight_f.vphys_c"
+	p4cl "2579411"
+	md5 "B50DB44B5267D655A47EB0522F7EEDDF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/vacum_entrance_a_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/vacum_entrance_a_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "8018A71640BFE91F85DFC2EF7575A401"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/vacum_entrance_a.vphys_c"
+	destpath "models/props_backstage/vacum_entrance_a.vphys_c"
+	p4cl "2579411"
+	md5 "AC3979C7AEEB03A2DE15516729D253E1"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/vacum_flange_a_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/vacum_flange_a_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "64E3DE4F6EA228014E92083E33F7A2E9"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/vacum_flange_a_bg_default_lod1.vmesh_c"
+	destpath "models/props_backstage/vacum_flange_a_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "0A5EFE0DFD46E9B4457B7EA2C99A3C73"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/vacum_flange_a_bg_default_lod2.vmesh_c"
+	destpath "models/props_backstage/vacum_flange_a_bg_default_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "5A8D969636D05E482F3E91B297D744E2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/vacum_flange_a.vphys_c"
+	destpath "models/props_backstage/vacum_flange_a.vphys_c"
+	p4cl "2579411"
+	md5 "D4C6BC763543C878161E11EB657364B2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/vacum_scanner_b_bg_default_lod0.vmesh_c"
+	destpath "models/props_backstage/vacum_scanner_b_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "D0755E765E49E85D4772CECF85852CCD"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/vacum_scanner_b.vphys_c"
+	destpath "models/props_backstage/vacum_scanner_b.vphys_c"
+	p4cl "2579411"
+	md5 "4F7FE718139BDE06F286CCC32B6E4479"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/cable_hanging_05_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/cable_hanging_05_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "180677BC1134CC274190BC88D190F7BF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_carriage_a_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/gantry_carriage_a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "63156507A566F5826707CE1E68002AAE"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_carriage_a.vphys_c"
+	destpath "models/props_bts/gantry_carriage_a.vphys_c"
+	p4cl "2579411"
+	md5 "01E757473B0F791C3271E0487B46D46B"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_hoist_a_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/gantry_hoist_a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "C6436A9F99E39ABDA2E4999D00FEDF69"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_hoist_a.vphys_c"
+	destpath "models/props_bts/gantry_hoist_a.vphys_c"
+	p4cl "2579411"
+	md5 "5000263A7ABFDF0037024A4D88FB1D03"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_rails_a_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/gantry_rails_a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "89D437C8ACF8410EC4A1D4DFC88E2744"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_rails_a.vphys_c"
+	destpath "models/props_bts/gantry_rails_a.vphys_c"
+	p4cl "2579411"
+	md5 "80FA56F03C69FC4F475A14BC0AFFE919"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_truss_a_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/gantry_truss_a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "8E8358C2603D5518A039E0F53D5D4CD6"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/gantry_truss_a.vphys_c"
+	destpath "models/props_bts/gantry_truss_a.vphys_c"
+	p4cl "2579411"
+	md5 "4F175A6A4AE137413D3CF33AC102AD11"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_stair_128_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/hanging_stair_128_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "BF91756CA90EAD717ACABF0164B7324D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_stair_128_bg_body_lod1.vmesh_c"
+	destpath "models/props_bts/hanging_stair_128_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "0DB443CBA3EFA37468FF534975E20166"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_stair_128.vphys_c"
+	destpath "models/props_bts/hanging_stair_128.vphys_c"
+	p4cl "2579411"
+	md5 "1EB6D2E27044F1EC4282269D492C40F3"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_stair_256_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/hanging_stair_256_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "60EEDC3805287100FD4352A2DE62E7A7"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_stair_256_bg_body_lod1.vmesh_c"
+	destpath "models/props_bts/hanging_stair_256_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "3B30BDF7620F55A8CE4D866BFA69FBA2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_stair_256.vphys_c"
+	destpath "models/props_bts/hanging_stair_256.vphys_c"
+	p4cl "2579411"
+	md5 "1769D9609FFD9D83C87E0E13F39DB802"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_stair_landing_a_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/hanging_stair_landing_a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "26288F602914378F84CD57F50AA61739"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_stair_landing_a.vphys_c"
+	destpath "models/props_bts/hanging_stair_landing_a.vphys_c"
+	p4cl "2579411"
+	md5 "6A19662AFC25357FD71C8EE211C5460D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_128a_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_128a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "1241D8D99BDBF91CEAA729152CF8BC80"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_128a_bg_body_lod1.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_128a_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "A60E5E685C1C2F135F26A11E2F772DAA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_128a.vphys_c"
+	destpath "models/props_bts/hanging_walkway_128a.vphys_c"
+	p4cl "2579411"
+	md5 "412EE15834AEFEC9C8F20B600A1C026C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_128b_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_128b_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "2FA293E2B7956151CEC4878E2C71413D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_128b.vphys_c"
+	destpath "models/props_bts/hanging_walkway_128b.vphys_c"
+	p4cl "2579411"
+	md5 "D538B4234442D5EEEF602FF517699FE3"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_256a_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_256a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "C562BBE1AA89D93FC7D5979C02276D42"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_256a.vphys_c"
+	destpath "models/props_bts/hanging_walkway_256a.vphys_c"
+	p4cl "2579411"
+	md5 "0C6FB701575E483CD8711BC67C837A41"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_32b_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_32b_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "83BB37A361A31BB062CD2063743FA23C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_32b.vphys_c"
+	destpath "models/props_bts/hanging_walkway_32b.vphys_c"
+	p4cl "2579411"
+	md5 "6C346866CD3F94448D0C604A01F1FD01"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_corner_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_corner_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "8DDB7E9F9969CE2DC7420FE79F6E6949"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_corner_bg_body_lod1.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_corner_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "E2D903F2B01EB8BBF2D4C976006B6910"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_corner.vphys_c"
+	destpath "models/props_bts/hanging_walkway_corner.vphys_c"
+	p4cl "2579411"
+	md5 "4EEDC768B331EBE39BE6F6A1FF85F716"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_end_cap_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_end_cap_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "98C6890A3AA32D0FEA5C2642DC28BEFB"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_end_cap.vphys_c"
+	destpath "models/props_bts/hanging_walkway_end_cap.vphys_c"
+	p4cl "2579411"
+	md5 "83C6070EDA2CEB95C75A7A965B975951"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_l_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_l_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "0529356D83CDB75150CF9F8EA32D8592"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_l_bg_body_lod1.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_l_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "CF642A7B28FE84DC70148D8C0448C7CA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_l.vphys_c"
+	destpath "models/props_bts/hanging_walkway_l.vphys_c"
+	p4cl "2579411"
+	md5 "A87C29B0E46F31E1B2DB850E76075C91"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_t_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_t_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "FBA1794134461841E847658DC03085AF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_t_bg_body_lod1.vmesh_c"
+	destpath "models/props_bts/hanging_walkway_t_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "19B9C71C3AA98C58BB3096672C5DF3BE"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/hanging_walkway_t.vphys_c"
+	destpath "models/props_bts/hanging_walkway_t.vphys_c"
+	p4cl "2579411"
+	md5 "906D72B696660967736B9926C1399251"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/huge_fan_inner_rim_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/huge_fan_inner_rim_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "4D89826154320FA9EA871FEEA4525880"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/huge_fan_rim_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/huge_fan_rim_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "BDAA0AB3935828913C410EA1A01DE764"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/huge_fan_rim.vphys_c"
+	destpath "models/props_bts/huge_fan_rim.vphys_c"
+	p4cl "2579411"
+	md5 "1E4F3A95988F7C8C881863B0DAA0A089"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/lab_pod_b_destroyed01_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/lab_pod_b_destroyed01_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "00BD10519E736318F854E9006B300DF9"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/lab_pod_b_destroyed01_bg_body_lod1.vmesh_c"
+	destpath "models/props_bts/lab_pod_b_destroyed01_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "73DD475BEDF94C6A1563DF8050B24E4A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/lab_pod_b_destroyed01_bg_body_lod2.vmesh_c"
+	destpath "models/props_bts/lab_pod_b_destroyed01_bg_body_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "619D59BD92537965607CCD3F84B9D9BB"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/lamp_hanging_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/lamp_hanging_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "912DFAE0ECAF0F8062542E187DD6D208"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/lamp_hanging.vphys_c"
+	destpath "models/props_bts/lamp_hanging.vphys_c"
+	p4cl "2579411"
+	md5 "680F806449D3711E136E9E879DE412CA"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_bts/light_hanging_off.vmat_c"
+	destpath "materials/models/props_bts/light_hanging_off.vmat_c"
+	p4cl "2941218"
+	md5 "192685EF61E0F8417E826C89FFCF291C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/light_cage001a_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/light_cage001a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "52FA8762201C94E8DEBC57859AEC5E31"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/light_cage001a.vphys_c"
+	destpath "models/props_bts/light_cage001a.vphys_c"
+	p4cl "2579411"
+	md5 "9E0A9034D28996626199A551B86F8A21"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_bts/light_cage001_off.vmat_c"
+	destpath "materials/models/props_bts/light_cage001_off.vmat_c"
+	p4cl "2941218"
+	md5 "293BD07312793D1F4B90BFBDDDDB5238"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_bts/light_cage001_warm_on.vmat_c"
+	destpath "materials/models/props_bts/light_cage001_warm_on.vmat_c"
+	p4cl "2941218"
+	md5 "A7AD9D547301C960C5FE0F8A5EEBF6B1"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/light_hanging_1a_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/light_hanging_1a_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "F4CDFD491A6F1D25DC8F30E7CF6272B5"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/light_hanging_1a.vphys_c"
+	destpath "models/props_bts/light_hanging_1a.vphys_c"
+	p4cl "2579411"
+	md5 "E84EB8409D75CC1415EA42F05BE5D50F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pillar_64_vert_mid_01a_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/pillar_64_vert_mid_01a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "3B950D353539F67595B67F1DDD1A6A99"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pillar_64_vert_mid_01a.vphys_c"
+	destpath "models/props_bts/pillar_64_vert_mid_01a.vphys_c"
+	p4cl "2579411"
+	md5 "0E453AD88E016A0110C1BB264A0327E1"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_bts/pillar_truss_01b.vmat_c"
+	destpath "materials/models/props_bts/pillar_truss_01b.vmat_c"
+	p4cl "2941218"
+	md5 "D27DD5637C3712834F0F52F7918D27D7"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_bts/pillar_truss_01c.vmat_c"
+	destpath "materials/models/props_bts/pillar_truss_01c.vmat_c"
+	p4cl "2941218"
+	md5 "A817E11BB483428D85760AD026FC3831"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pillar_64_vert_mid_02a_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/pillar_64_vert_mid_02a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "151A9D9D0675C5D565EE70E39368B208"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pillar_64_vert_mid_02a.vphys_c"
+	destpath "models/props_bts/pillar_64_vert_mid_02a.vphys_c"
+	p4cl "2579411"
+	md5 "BA00E3E437B20F782F440901773F31DA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pillar_64_vert_mid_03a_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/pillar_64_vert_mid_03a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "84804C23547AD939F0F490E2B7F33D2A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pillar_64_vert_mid_03a.vphys_c"
+	destpath "models/props_bts/pillar_64_vert_mid_03a.vphys_c"
+	p4cl "2579411"
+	md5 "3FE07A81C32BC5AFF9788291D7991D1C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pressure_sphere_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/pressure_sphere_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "A425BCED33D163BECFF7BBFCE7D6F6C6"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pressure_sphere_bg_body_lod1.vmesh_c"
+	destpath "models/props_bts/pressure_sphere_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "02E02504078D72770CEC565A808DA762"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/pressure_sphere_bg_body_lod2.vmesh_c"
+	destpath "models/props_bts/pressure_sphere_bg_body_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "E1160F942997247B45213AC911645106"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/roommover_mainbeam_256_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/roommover_mainbeam_256_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "2726C03B56BE59C121D4C7E2FD460FEE"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/roommover_mainbeam_clamp_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/roommover_mainbeam_clamp_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "61FBB3C078D232DD7EA60524F1A05F06"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/roommover_movebeam_256_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/roommover_movebeam_256_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "8D85A9788D5FF8886533837742A63BE8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/roommover_movebeam_front_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/roommover_movebeam_front_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "DDF9F6597504AEB98F68FA417C453CD3"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/scaffolding_system_01_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/scaffolding_system_01_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "C77D399400A06DA4CE7020749E8B7137"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/scaffolding_system_06_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/scaffolding_system_06_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "98305B05B20301B9852606598832ADD2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/scaffolding_system_bars_512_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/scaffolding_system_bars_512_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "71DB4AAE81BB2D10C5CB3F97BE6AE5CF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/scaffolding_system_bars_512.vphys_c"
+	destpath "models/props_bts/scaffolding_system_bars_512.vphys_c"
+	p4cl "2579411"
+	md5 "C23E46022D3D0D6739A521420D74FC77"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_cable_cluster01_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/silhouette_cable_cluster01_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "529971191C30CB929E1E2D2318FD3091"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure01_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/silhouette_structure01_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "79F4A42C510706122AE4105DE9A50E89"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure02_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/silhouette_structure02_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "065441E0C0815254DCD57E663024835A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure03_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/silhouette_structure03_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "18E68757D372EEBDB2A8328B91330EB8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure04_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/silhouette_structure04_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "0271CC8F9881507B9D014CFFB6228C46"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure05_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/silhouette_structure05_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "11B27194E59F3D1BD96A05649EC854E2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure06_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/silhouette_structure06_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "9257454BD65A739E993151B11153EC84"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_structure08_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/silhouette_structure08_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "69DCE69E86042AE0406B059722D45F9B"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_window_01_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/silhouette_window_01_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "226A1DC01764786915B7831220FC0439"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/silhouette_window_01.vphys_c"
+	destpath "models/props_bts/silhouette_window_01.vphys_c"
+	p4cl "2579411"
+	md5 "72A8465901993A10633F4F845923D3AF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/truss_1024_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/truss_1024_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "42B50E99ECFCF199B0FC1281EF32AE59"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/truss_1024.vphys_c"
+	destpath "models/props_bts/truss_1024.vphys_c"
+	p4cl "2579411"
+	md5 "584EA82A817ECF03DD12A16EF5E2A222"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/truss_1024_cheap_bg_body_lod0.vmesh_c"
+	destpath "models/props_bts/truss_1024_cheap_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "78E78848F9ABDE429742ADEDDED1BD45"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/truss_1024_cheap.vphys_c"
+	destpath "models/props_bts/truss_1024_cheap.vphys_c"
+	p4cl "2579411"
+	md5 "5ACFA7B979DEAE9658515835DFEA9FF6"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "B653D7AD76EF85FACB07BA073E40F726"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_bg_default_lod1.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "BB877E4E594E061454E38CD1A001FCF7"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_bg_default_lod2.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_bg_default_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "7A9705DA953735E2F88656A6354F7076"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_bg_default_lod3.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_bg_default_lod3.vmesh_c"
+	p4cl "2579411"
+	md5 "15DC6C66D3691D12E285970BB0870ED1"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_bg_default_lod4.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_bg_default_lod4.vmesh_c"
+	p4cl "2579411"
+	md5 "4B19FDBABA078308D475528D5F067050"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_bg_default_lod5.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_bg_default_lod5.vmesh_c"
+	p4cl "2579411"
+	md5 "AB276C46FC70071CFFB1DF80DADAC1DE"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight.vphys_c"
+	destpath "models/props_bts/vactube_128_straight.vphys_c"
+	p4cl "2579411"
+	md5 "FB85B06AF6DD61D6BA080D2E54E884C9"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_backstage/vacum_pipe_opaque.vmat_c"
+	destpath "materials/models/props_backstage/vacum_pipe_opaque.vmat_c"
+	p4cl "2941218"
+	md5 "8067B03AF732427DE0F86D92D1C7D15B"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_b_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_b_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "B3C97B97D5AD6FB898BE519367C457BF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_b_bg_default_lod1.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_b_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "D2BEA225FCCAA26A6DEBC2423E10FDF9"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_b_bg_default_lod2.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_b_bg_default_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "CF877693E58506AFE298ADF2B40F7A75"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_b_bg_default_lod3.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_b_bg_default_lod3.vmesh_c"
+	p4cl "2579411"
+	md5 "11C02C90D538837A35F7507825D1B416"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_b_bg_default_lod4.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_b_bg_default_lod4.vmesh_c"
+	p4cl "2579411"
+	md5 "AD70678ED5FDA05194B475A35F63F60A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_b_bg_default_lod5.vmesh_c"
+	destpath "models/props_bts/vactube_128_straight_b_bg_default_lod5.vmesh_c"
+	p4cl "2579411"
+	md5 "94F9FF1E2ACCA6E85A18863ACB922B59"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_128_straight_b.vphys_c"
+	destpath "models/props_bts/vactube_128_straight_b.vphys_c"
+	p4cl "2579411"
+	md5 "FB85B06AF6DD61D6BA080D2E54E884C9"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_01_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_01_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "216C18938C81FCD362AB2D00F20CFFAA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_01_bg_default_lod1.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_01_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "FC4A82C6081ED272431F486D1E1E8DE4"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_01_bg_default_lod2.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_01_bg_default_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "54850A607D4FEAA8F340E6785E2CD299"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_01_bg_default_lod3.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_01_bg_default_lod3.vmesh_c"
+	p4cl "2579411"
+	md5 "B10214EDD21DF194F03D9FF24E6DEFC7"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_01_bg_default_lod4.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_01_bg_default_lod4.vmesh_c"
+	p4cl "2579411"
+	md5 "521652614493212F3495BE2C4C08E7EA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_01_bg_default_lod5.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_01_bg_default_lod5.vmesh_c"
+	p4cl "2579411"
+	md5 "066C1E121FFE96434C01C412CCBF9F26"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_01.vphys_c"
+	destpath "models/props_bts/vactube_90deg_01.vphys_c"
+	p4cl "2579411"
+	md5 "BE98AA8C59546976832488D6A15B17B5"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_02_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_02_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "5F1F57D8F5E800E97C8C17BC2DB4755A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_02_bg_default_lod1.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_02_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "35FD6797AF63EEACAA954550B02083A8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_02_bg_default_lod2.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_02_bg_default_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "CF1122B4ABDAF1B88BC2D6E1A255ABED"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_02_bg_default_lod3.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_02_bg_default_lod3.vmesh_c"
+	p4cl "2579411"
+	md5 "1DACF1F10B753CF6C6D626B0692DB4BF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_02_bg_default_lod4.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_02_bg_default_lod4.vmesh_c"
+	p4cl "2579411"
+	md5 "A9B7E113E7668C37B577EC699AF99C41"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_02_bg_default_lod5.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_02_bg_default_lod5.vmesh_c"
+	p4cl "2579411"
+	md5 "53A4B40B9736781D1BE5243BD7943148"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_02_bg_default_lod6.vmesh_c"
+	destpath "models/props_bts/vactube_90deg_02_bg_default_lod6.vmesh_c"
+	p4cl "2579411"
+	md5 "53BFD8EEB914BB26997F9E7F3BE9942B"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_90deg_02.vphys_c"
+	destpath "models/props_bts/vactube_90deg_02.vphys_c"
+	p4cl "2579411"
+	md5 "9E2BE45C0E9D606E78EFA42D1D7CD4A1"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_connector_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/vactube_connector_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "7D907EA7EB18C78239C718DEF6657B8C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_connector_bg_default_lod1.vmesh_c"
+	destpath "models/props_bts/vactube_connector_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "D20D9BFE9D12CF5CB8F2534A9E39FB7D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_connector_bg_default_lod2.vmesh_c"
+	destpath "models/props_bts/vactube_connector_bg_default_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "856A0397FB87A6124F74C5728E492256"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_connector_bg_default_lod3.vmesh_c"
+	destpath "models/props_bts/vactube_connector_bg_default_lod3.vmesh_c"
+	p4cl "2579411"
+	md5 "93CE3568EBE777BBDBDE23AB7A42D648"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_backstage/vacum_pipe_connector.vmat_c"
+	destpath "materials/models/props_backstage/vacum_pipe_connector.vmat_c"
+	p4cl "2941218"
+	md5 "516280D9532E08A29396140637F348A2"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/lights/robo_lights.vmat_c"
+	destpath "materials/models/lights/robo_lights.vmat_c"
+	p4cl "2941218"
+	md5 "F78378436C37FD40DD40AEA8293E4B84"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_crossroads_bg_default_lod0.vmesh_c"
+	destpath "models/props_bts/vactube_crossroads_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "E74D12BC95DBA6C53A4D1367817332E5"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_crossroads_bg_default_lod1.vmesh_c"
+	destpath "models/props_bts/vactube_crossroads_bg_default_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "3F6762FF6B359BB0D91CB15E14E2E446"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_crossroads_bg_default_lod2.vmesh_c"
+	destpath "models/props_bts/vactube_crossroads_bg_default_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "7AD63E1CDD5CE8CCB79110422BDAD7D5"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_crossroads_bg_default_lod3.vmesh_c"
+	destpath "models/props_bts/vactube_crossroads_bg_default_lod3.vmesh_c"
+	p4cl "2579411"
+	md5 "A89CF5E5BA7A2EFF45B0762A4471E4F8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_crossroads_bg_default_lod4.vmesh_c"
+	destpath "models/props_bts/vactube_crossroads_bg_default_lod4.vmesh_c"
+	p4cl "2579411"
+	md5 "EDB437C18111DBB9E621285C1FC140E7"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_crossroads_bg_default_lod5.vmesh_c"
+	destpath "models/props_bts/vactube_crossroads_bg_default_lod5.vmesh_c"
+	p4cl "2579411"
+	md5 "B19B1AAD0A1C73BA49EAB23E7BE76DD1"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_bts/vactube_crossroads.vphys_c"
+	destpath "models/props_bts/vactube_crossroads.vphys_c"
+	p4cl "2579411"
+	md5 "E80AC327B8C439D4D7E9DFEF6D492AEF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/factory_panel_portalable_128x128_bg_default_lod0.vmesh_c"
+	destpath "models/props_factory/factory_panel_portalable_128x128_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "2EB54DC87594CA9370DA3380B14BA27C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/factory_panel_portalable_128x128.vphys_c"
+	destpath "models/props_factory/factory_panel_portalable_128x128.vphys_c"
+	p4cl "2579411"
+	md5 "DA5264B38132F4EE8F23966965751449"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/factory_panel_portalable_128x128.vagrp_c"
+	destpath "models/props_factory/factory_panel_portalable_128x128.vagrp_c"
+	p4cl "2579411"
+	md5 "D77AD8868D8F94C67F9F301387693179"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/neurotoxin_tank_bg_default_lod0.vmesh_c"
+	destpath "models/props_factory/neurotoxin_tank_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "9CF11F16412B521F2A1AF5C322A8E95C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/neurotoxin_tank.vphys_c"
+	destpath "models/props_factory/neurotoxin_tank.vphys_c"
+	p4cl "2579411"
+	md5 "634404DC40D3330F88B99EDC2E310441"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory_bg_default_lod0.vmesh_c"
+	destpath "models/props_factory/turret_factory_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "05EF33D3889AB1475AD03224A71C7130"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory.vagrp_c"
+	destpath "models/props_factory/turret_factory.vagrp_c"
+	p4cl "2579411"
+	md5 "D84211F7FA96BC9543C9D46E279D9AE5"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory_ajar/turret_factory_ajar_bg_default_lod0.vmesh_c"
+	destpath "models/props_factory/turret_factory_ajar/turret_factory_ajar_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "5C57A9CEB0BDAEC0564518FEAFA00B96"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory_ajar/turret_factory_ajar.vphys_c"
+	destpath "models/props_factory/turret_factory_ajar/turret_factory_ajar.vphys_c"
+	p4cl "2579411"
+	md5 "2E51F8A4902933924D5C874F121FF552"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory_closed_bg_body_lod0.vmesh_c"
+	destpath "models/props_factory/turret_factory_closed_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "6F242D81BEEC5CFB98456EC27E2D1BEA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory_closed_bg_body_lod1.vmesh_c"
+	destpath "models/props_factory/turret_factory_closed_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "16BB97A2E68197A57EB8CD3D01A759FF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory_closed.vphys_c"
+	destpath "models/props_factory/turret_factory_closed.vphys_c"
+	p4cl "2579411"
+	md5 "8EF80B75B2D0E872BF183837C15CB50F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_gameplay/industrial_elevator_a_bg_default_lod0.vmesh_c"
+	destpath "models/props_gameplay/industrial_elevator_a_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "0052EAC4AE66B312C26E50574014B383"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_gameplay/industrial_elevator_a.vphys_c"
+	destpath "models/props_gameplay/industrial_elevator_a.vphys_c"
+	p4cl "2579411"
+	md5 "E5729EE232ECD6E67C168FA753F70B6C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_192_bg_body_lod0.vmesh_c"
+	destpath "models/props_lab/window_192_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "C675988C5D2D7190C178D35D6C8867DD"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_192.vphys_c"
+	destpath "models/props_lab/window_192.vphys_c"
+	p4cl "2579411"
+	md5 "613F3D03250770022F17C5C876D0C725"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_192_a_bg_body_lod0.vmesh_c"
+	destpath "models/props_lab/window_192_a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "A9B976943580C6C74CC90FFBCEB5DD4A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_192_a.vphys_c"
+	destpath "models/props_lab/window_192_a.vphys_c"
+	p4cl "2579411"
+	md5 "21DD94FBE1DDB5BB7038BD5E990C2D56"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_256_bg_body_lod0.vmesh_c"
+	destpath "models/props_lab/window_256_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "1F09B4D6D9D3DC8A7ECD4A79861DE191"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_256.vphys_c"
+	destpath "models/props_lab/window_256.vphys_c"
+	p4cl "2579411"
+	md5 "CB0D80B981B1B2A0343D12CAC9A0645F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_256_a_bg_body_lod0.vmesh_c"
+	destpath "models/props_lab/window_256_a_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "6E1ED0C7E1843DB43A80B2F8534E734C"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lab/window_256_a.vphys_c"
+	destpath "models/props_lab/window_256_a.vphys_c"
+	p4cl "2579411"
+	md5 "6AFD7FAA6E63CDBE190717BB9D7CD24F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lights/stage_light01_bg_body_lod0.vmesh_c"
+	destpath "models/props_lights/stage_light01_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "176EEFB2012128DD1D708DF68884FA4D"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lights/stage_light01_bg_body_lod1.vmesh_c"
+	destpath "models/props_lights/stage_light01_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "80993C04365E0918F277F2CA1F1450FC"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_lights/stage_light01_bg_body_lod2.vmesh_c"
+	destpath "models/props_lights/stage_light01_bg_body_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "934BDBABA9432E57979A03C33DBD11C8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_cabinet01_bg_body_lod0.vmesh_c"
+	destpath "models/props_office/computer_cabinet01_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "0854BA83C781859D1D2BC14839DC3E08"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_cabinet01_bg_body_lod1.vmesh_c"
+	destpath "models/props_office/computer_cabinet01_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "873619033BC5CB5588E36F02797B0F5F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_cabinet01_bg_body_lod2.vmesh_c"
+	destpath "models/props_office/computer_cabinet01_bg_body_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "9495B9CB50CAFA2874D8757C29AA4C79"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_cabinet01.vphys_c"
+	destpath "models/props_office/computer_cabinet01.vphys_c"
+	p4cl "2579411"
+	md5 "DA0152FC7088487786AF95206BB7473E"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_cabinet02_bg_body_lod0.vmesh_c"
+	destpath "models/props_office/computer_cabinet02_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "B876778CAAE8EAE32096A7900BEEE021"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_cabinet02_bg_body_lod1.vmesh_c"
+	destpath "models/props_office/computer_cabinet02_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "6CD6E45E7B428650B3FA8915E99CBA06"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_cabinet02_bg_body_lod2.vmesh_c"
+	destpath "models/props_office/computer_cabinet02_bg_body_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "A467AA58C080C7837C99A6E8E9002153"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_cabinet02.vphys_c"
+	destpath "models/props_office/computer_cabinet02.vphys_c"
+	p4cl "2579411"
+	md5 "520535C94C1BDA67BA2B2D1AAA97C882"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_tall01_bg_body_lod0.vmesh_c"
+	destpath "models/props_office/computer_tall01_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "84328CC826DB25CE926A324E885AF4CD"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_tall01_bg_body_lod1.vmesh_c"
+	destpath "models/props_office/computer_tall01_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "D88731370069F55A6DD59BF27122519F"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_tall01_bg_body_lod2.vmesh_c"
+	destpath "models/props_office/computer_tall01_bg_body_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "995E428B2D69B8F8B70F86CD7EDAE9A8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_tall01.vphys_c"
+	destpath "models/props_office/computer_tall01.vphys_c"
+	p4cl "2579411"
+	md5 "D402C845FB51953BAACC14B8860E14AF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/computer_tall02_bg_body_lod0.vmesh_c"
+	destpath "models/props_office/computer_tall02_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "0341ECA04C737ABA14CF93D664A870A6"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/control_desk_r_bg_body_lod0.vmesh_c"
+	destpath "models/props_office/control_desk_r_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "3440FF9F5C9F2D5F71544D35F25C0BC0"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/control_desk_r_bg_body_lod1.vmesh_c"
+	destpath "models/props_office/control_desk_r_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "7AA1184093449F24E3106C6D831D2980"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/control_desk_r.vphys_c"
+	destpath "models/props_office/control_desk_r.vphys_c"
+	p4cl "2579411"
+	md5 "0A1EDC33A22C3914E22A9C146C839843"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/office_light002_bg_body_lod0.vmesh_c"
+	destpath "models/props_office/office_light002_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "701BD50E1CBA6548157285AE525532C2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_office/office_light002.vphys_c"
+	destpath "models/props_office/office_light002.vphys_c"
+	p4cl "2579411"
+	md5 "436B0687F11B193E5C74E1D47DCA04C2"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_office/office_light002_off.vmat_c"
+	destpath "materials/models/props_office/office_light002_off.vmat_c"
+	p4cl "2941218"
+	md5 "F4C30F63F1DD74CEF00E457BB33A3D36"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_office/office_light002_cool_on.vmat_c"
+	destpath "materials/models/props_office/office_light002_cool_on.vmat_c"
+	p4cl "2941218"
+	md5 "A1917CD5EE1C0459AEB72DB6BF032702"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/aperture_sign_1940_01_bg_body_lod0.vmesh_c"
+	destpath "models/props_underground/aperture_sign_1940_01_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "3F45AEF4C9DA8B1373C45A112A878C75"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/aperture_sign_1940_01_bg_body_lod1.vmesh_c"
+	destpath "models/props_underground/aperture_sign_1940_01_bg_body_lod1.vmesh_c"
+	p4cl "2579411"
+	md5 "EBE469F87C3CC1EB8977BAE516F0AA89"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/aperture_sign_1940_01_bg_body_lod2.vmesh_c"
+	destpath "models/props_underground/aperture_sign_1940_01_bg_body_lod2.vmesh_c"
+	p4cl "2579411"
+	md5 "D194878BB13ADFD8A867565E01361E81"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/tank_a_256x512_bg_default_lod0.vmesh_c"
+	destpath "models/props_underground/tank_a_256x512_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "CF5FA1255884A37D9548EE93B12400CA"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/tank_a_256x512.vphys_c"
+	destpath "models/props_underground/tank_a_256x512.vphys_c"
+	p4cl "2579411"
+	md5 "CD4C5ADAE07D909E419140D26B757C42"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/tank_a_384x768_bg_default_lod0.vmesh_c"
+	destpath "models/props_underground/tank_a_384x768_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "B31A5CE26ECB4F28A9BAB79BCFFDE3DF"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/tank_a_384x768.vphys_c"
+	destpath "models/props_underground/tank_a_384x768.vphys_c"
+	p4cl "2579411"
+	md5 "A78299F835EA70245DB9005CE58F1CC2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/truss_64_128_bg_body_lod0.vmesh_c"
+	destpath "models/props_underground/truss_64_128_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "7D337ED81BEDB883F2BC82D2678A4267"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/truss_64_128.vphys_c"
+	destpath "models/props_underground/truss_64_128.vphys_c"
+	p4cl "2579411"
+	md5 "29E4453C43E3EE5754D6377F80D89B04"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/truss_64_256_bg_body_lod0.vmesh_c"
+	destpath "models/props_underground/truss_64_256_bg_body_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "7337A038A186225D89E7FEBE30DE29D5"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/truss_64_256.vphys_c"
+	destpath "models/props_underground/truss_64_256.vphys_c"
+	p4cl "2579411"
+	md5 "E86C3A76161B9A1A79F9D18BED62DA52"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/underground_door_dynamic_bg_default_lod0.vmesh_c"
+	destpath "models/props_underground/underground_door_dynamic_bg_default_lod0.vmesh_c"
+	p4cl "2579411"
+	md5 "9914509E90DC9BAD7498F59DB1FA9FE2"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/underground_door_dynamic.vphys_c"
+	destpath "models/props_underground/underground_door_dynamic.vphys_c"
+	p4cl "2579411"
+	md5 "C604F900753C8D32F22A67FA5D028F95"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/underground_door_dynamic.vagrp_c"
+	destpath "models/props_underground/underground_door_dynamic.vagrp_c"
+	p4cl "2579411"
+	md5 "AE623AD79F894B659E1C0EB108A75004"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/metal/underground_wall_metal004d_color_tga_abe89dbd.vtex_c"
+	destpath "materials/metal/underground_wall_metal004d_color_tga_abe89dbd.vtex_c"
+	p4cl "2941218"
+	md5 "FF32079C4CFAC5DB95BB67CFE536A9F5"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/plaster/paintwall006-normal_normal_tga_606ec155.vtex_c"
+	destpath "materials/plaster/paintwall006-normal_normal_tga_606ec155.vtex_c"
+	p4cl "2941218"
+	md5 "122E6D67AAF967D6022A2447BD75F23F"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/plaster/paintwall006-normal_normal_tga_ea4079f9.vtex_c"
+	destpath "materials/plaster/paintwall006-normal_normal_tga_ea4079f9.vtex_c"
+	p4cl "2941218"
+	md5 "F52C9D19F3EAD7D10A9ECCCA155DA1F3"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/plaster/paintwall006-normal_refl_tga_7c4c7ca.vtex_c"
+	destpath "materials/plaster/paintwall006-normal_refl_tga_7c4c7ca.vtex_c"
+	p4cl "2941218"
+	md5 "96F5BBEC1792C99ED0D1B7DF85732A91"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/metal/metalbeam_bts_001b_color_psd_80991ecf.vtex_c"
+	destpath "materials/metal/metalbeam_bts_001b_color_psd_80991ecf.vtex_c"
+	p4cl "2941218"
+	md5 "FBA2E3434E026258FDFD890397148510"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/metal/metalbeam_bts_001a-height-ssbump_normal_tga_d7ca1aec.vtex_c"
+	destpath "materials/metal/metalbeam_bts_001a-height-ssbump_normal_tga_d7ca1aec.vtex_c"
+	p4cl "2941218"
+	md5 "CCDC7128644BC572307879153B66EC53"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/metal/metalbeam_bts_001a-height-ssbump_normal_tga_ecf69e42.vtex_c"
+	destpath "materials/metal/metalbeam_bts_001a-height-ssbump_normal_tga_ecf69e42.vtex_c"
+	p4cl "2941218"
+	md5 "D71C2F4468D0362E85790DAE0C48AF71"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/concrete/concrete_bts_floor001a_color_tga_a7f7c45.vtex_c"
+	destpath "materials/concrete/concrete_bts_floor001a_color_tga_a7f7c45.vtex_c"
+	p4cl "2941218"
+	md5 "F827FF56A4417A5C412DBC839223C843"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/anim_wp/framework/squarebeams_skin2_color_psd_35777de.vtex_c"
+	destpath "materials/models/anim_wp/framework/squarebeams_skin2_color_psd_35777de.vtex_c"
+	p4cl "2941218"
+	md5 "6034ACC88D74BD461EC967A3786A2145"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/anim_wp/framework/squarebeams_skin3_color_psd_439b142e.vtex_c"
+	destpath "materials/models/anim_wp/framework/squarebeams_skin3_color_psd_439b142e.vtex_c"
+	p4cl "2941218"
+	md5 "4B5025BFE8669695C4E790971A7B76C8"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/anim_wp/circle_shield/circle_shield_glass.vmat_c"
+	destpath "materials/models/anim_wp/circle_shield/circle_shield_glass.vmat_c"
+	p4cl "2941218"
+	md5 "A89B0863286B7AE39D7323FFD7182D94"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/telescope_arm_128/telescope_arm_128.vanim_c"
+	destpath "models/anim_wp/telescope_arm_128/telescope_arm_128.vanim_c"
+	p4cl "2578210"
+	md5 "D413CBA1EA6E862DB6EF7E8E4469A055"
+}
+file
+{
+	srcpath "game/portal2_imported/models/anim_wp/telescope_arm_128/telescope_arm_128.vseq_c"
+	destpath "models/anim_wp/telescope_arm_128/telescope_arm_128.vseq_c"
+	p4cl "2578210"
+	md5 "E67A43475CD06816307B169105CFB598"
+}
+file
+{
+	srcpath "game/portal2_imported/models/container_ride/container_lolorez.vanim_c"
+	destpath "models/container_ride/container_lolorez.vanim_c"
+	p4cl "2578210"
+	md5 "DAFD74AADC034CD35E5A00B2BF0FC86E"
+}
+file
+{
+	srcpath "game/portal2_imported/models/container_ride/container_lolorez.vseq_c"
+	destpath "models/container_ride/container_lolorez.vseq_c"
+	p4cl "2578210"
+	md5 "DF997C9E1067A023603A70A168803C75"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_office/fuse_glow.vmat_c"
+	destpath "materials/models/props_office/fuse_glow.vmat_c"
+	p4cl "2941218"
+	md5 "61EE2D268A76A82300E86904925B21F8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/item_dropper.vanim_c"
+	destpath "models/props_backstage/item_dropper.vanim_c"
+	p4cl "2579411"
+	md5 "2D1B4B80E26E22B278AA28C51B4A6F26"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_backstage/item_dropper.vseq_c"
+	destpath "models/props_backstage/item_dropper.vseq_c"
+	p4cl "2579411"
+	md5 "462A79DEE7B1D547EA89D32E87DCC6C7"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_backstage/item_dropper_orange_color_tga_1a89f6af.vtex_c"
+	destpath "materials/models/props_backstage/item_dropper_orange_color_tga_1a89f6af.vtex_c"
+	p4cl "2941218"
+	md5 "A829BA4AFA26713B56C0C3B27C2C3EFC"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_backstage/item_dropper_orange_refl_tga_31aa4b62.vtex_c"
+	destpath "materials/models/props_backstage/item_dropper_orange_refl_tga_31aa4b62.vtex_c"
+	p4cl "2941218"
+	md5 "95104FF5E86EF2007D4A4FEB8D8A6AE6"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_backstage/item_dropper_illum_mask_selfillum_tga_76a7cfe3.vtex_c"
+	destpath "materials/models/props_backstage/item_dropper_illum_mask_selfillum_tga_76a7cfe3.vtex_c"
+	p4cl "2941218"
+	md5 "21482F9F759276AF96BB233CBBABCE8E"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_bts/light_hanging_color_psd_f9f4a56d.vtex_c"
+	destpath "materials/models/props_bts/light_hanging_color_psd_f9f4a56d.vtex_c"
+	p4cl "2941218"
+	md5 "9073E50FFEE426FEAF2734A5E80F3B53"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/dev/flat_normal_tga_48f2313b.vtex_c"
+	destpath "materials/dev/flat_normal_tga_48f2313b.vtex_c"
+	p4cl "2941218"
+	md5 "128081956C95EE610E3D51EA22797D90"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/dev/flat_normal_tga_81885b47.vtex_c"
+	destpath "materials/dev/flat_normal_tga_81885b47.vtex_c"
+	p4cl "2941218"
+	md5 "257DBF51EC330428DC13C976936F99FC"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_bts/light_hanging_off_vmat_g_tmetalnessreflectancefresnel_1daddd0b.vtex_c"
+	destpath "materials/models/props_bts/light_hanging_off_vmat_g_tmetalnessreflectancefresnel_1daddd0b.vtex_c"
+	p4cl "2941218"
+	md5 "5A78821FED0FE5CA66FEC751FC6ACB32"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_bts/light_cage001_off_color_psd_c84e3560.vtex_c"
+	destpath "materials/models/props_bts/light_cage001_off_color_psd_c84e3560.vtex_c"
+	p4cl "2941218"
+	md5 "4DC890FB00663A54ECD443CED1E3D1FB"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_bts/light_cage001_selfillum_tga_549ee8a3.vtex_c"
+	destpath "materials/models/props_bts/light_cage001_selfillum_tga_549ee8a3.vtex_c"
+	p4cl "2941218"
+	md5 "23E4741C5C2698E2075C4C0D99C6677C"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_bts/pillar_truss_01b_color_psd_20917819.vtex_c"
+	destpath "materials/models/props_bts/pillar_truss_01b_color_psd_20917819.vtex_c"
+	p4cl "2941218"
+	md5 "149BAF132A54566387CC6DE63580EF65"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_bts/pillar_truss_01c_color_psd_51dfc4a4.vtex_c"
+	destpath "materials/models/props_bts/pillar_truss_01c_color_psd_51dfc4a4.vtex_c"
+	p4cl "2941218"
+	md5 "42FB16312282B3AE84532029A84A6F40"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_backstage/vacum_pipe_opaque_color_tga_6b4f504f.vtex_c"
+	destpath "materials/models/props_backstage/vacum_pipe_opaque_color_tga_6b4f504f.vtex_c"
+	p4cl "2941218"
+	md5 "36496ACA873FFB396487893A8DABD15B"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_backstage/vacum_pipe_connector_color_psd_7ea6433d.vtex_c"
+	destpath "materials/models/props_backstage/vacum_pipe_connector_color_psd_7ea6433d.vtex_c"
+	p4cl "2941218"
+	md5 "5AFB00841DE3724E998FC122A8BAACB9"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_backstage/vacum_pipe_connector_refl_tga_a392b292.vtex_c"
+	destpath "materials/models/props_backstage/vacum_pipe_connector_refl_tga_a392b292.vtex_c"
+	p4cl "2941218"
+	md5 "B52B032314D983E2D5080CE2AF7098E7"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/lights/robo_lights_color_psd_66a83f39.vtex_c"
+	destpath "materials/models/lights/robo_lights_color_psd_66a83f39.vtex_c"
+	p4cl "2941218"
+	md5 "2AB38C884AA058AB9EFEC21DFB2B0D78"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/lights/robo_lights_selfillum_tga_86b03fdf.vtex_c"
+	destpath "materials/models/lights/robo_lights_selfillum_tga_86b03fdf.vtex_c"
+	p4cl "2941218"
+	md5 "CFBB04D2C9FD935FB6CE1DF42154C623"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/factory_panel_portalable_128x128.vanim_c"
+	destpath "models/props_factory/factory_panel_portalable_128x128.vanim_c"
+	p4cl "2579411"
+	md5 "8C43985E2C311D192212EAE62FA2ADA8"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/factory_panel_portalable_128x128.vseq_c"
+	destpath "models/props_factory/factory_panel_portalable_128x128.vseq_c"
+	p4cl "2579411"
+	md5 "9E8B1D80DC4348B2E919AD39A6FBCF43"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_factory/turret_box.vmat_c"
+	destpath "materials/models/props_factory/turret_box.vmat_c"
+	p4cl "2941218"
+	md5 "CE5E055D2EFF7AFE70B5BAF276D4D99F"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_factory/factory1.vmat_c"
+	destpath "materials/models/props_factory/factory1.vmat_c"
+	p4cl "2941218"
+	md5 "79D63FC949B6902EE6E10D2AEC2E0CA8"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_frame01.vmat_c"
+	destpath "materials/models/npcs/turret/turret_frame01.vmat_c"
+	p4cl "2941218"
+	md5 "6C891C8F53669F5925DA196F354F71FC"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_frame02.vmat_c"
+	destpath "materials/models/npcs/turret/turret_frame02.vmat_c"
+	p4cl "2941218"
+	md5 "6524C4363914EF3159CF96E92D957225"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_eye.vmat_c"
+	destpath "materials/models/npcs/turret/turret_eye.vmat_c"
+	p4cl "2941218"
+	md5 "0B45643D6474D6C53B5BD24AEF336509"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_casing.vmat_c"
+	destpath "materials/models/npcs/turret/turret_casing.vmat_c"
+	p4cl "2941218"
+	md5 "B6B1B25DA45D38265AA879502AE0FD20"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory.vanim_c"
+	destpath "models/props_factory/turret_factory.vanim_c"
+	p4cl "2579411"
+	md5 "B8384FF7FDC603C5BF0CDB142581B09A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_factory/turret_factory.vseq_c"
+	destpath "models/props_factory/turret_factory.vseq_c"
+	p4cl "2579411"
+	md5 "8EF444F2525F75CDA4CBE849AC3E2D1C"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_office/office_light002_selfillum_tga_e22a7e68.vtex_c"
+	destpath "materials/models/props_office/office_light002_selfillum_tga_e22a7e68.vtex_c"
+	p4cl "2941218"
+	md5 "D935A230AB5216BB6386BF17BA39C79B"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/underground_door_dynamic.vanim_c"
+	destpath "models/props_underground/underground_door_dynamic.vanim_c"
+	p4cl "2579411"
+	md5 "691BBA293D1A6B29BF6E58148D1C8A7A"
+}
+file
+{
+	srcpath "game/portal2_imported/models/props_underground/underground_door_dynamic.vseq_c"
+	destpath "models/props_underground/underground_door_dynamic.vseq_c"
+	p4cl "2579411"
+	md5 "95E837718815B276BBC37E12E92417A0"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/anim_wp/circle_shield/circle_shield_glass_color_tga_3702f29d.vtex_c"
+	destpath "materials/models/anim_wp/circle_shield/circle_shield_glass_color_tga_3702f29d.vtex_c"
+	p4cl "2941218"
+	md5 "0BCFC0D324DFDA3B5DD85BADB910BA1E"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/anim_wp/circle_shield/circle_shield_glass_normal_tga_64714e5e.vtex_c"
+	destpath "materials/models/anim_wp/circle_shield/circle_shield_glass_normal_tga_64714e5e.vtex_c"
+	p4cl "2941218"
+	md5 "9E56D4395DF1F57D74BB9EA4D73F0EA3"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/anim_wp/circle_shield/circle_shield_glass_normal_tga_800159cb.vtex_c"
+	destpath "materials/models/anim_wp/circle_shield/circle_shield_glass_normal_tga_800159cb.vtex_c"
+	p4cl "2941218"
+	md5 "21D4DAB9370B308B0FC21D0812F97287"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_office/fuse_glow_color_psd_12429d93.vtex_c"
+	destpath "materials/models/props_office/fuse_glow_color_psd_12429d93.vtex_c"
+	p4cl "2941218"
+	md5 "8C321950F469A6C6786168FD504FA15E"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_office/fuse_glow_vmat_g_tselfillummask_b4ea187a.vtex_c"
+	destpath "materials/models/props_office/fuse_glow_vmat_g_tselfillummask_b4ea187a.vtex_c"
+	p4cl "2941218"
+	md5 "A714844D108E7290FC9DD75E57A78189"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_factory/turret_box_color_tga_ed9138c0.vtex_c"
+	destpath "materials/models/props_factory/turret_box_color_tga_ed9138c0.vtex_c"
+	p4cl "2941218"
+	md5 "ABFC689A93F363502919F9F69BD8F21D"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_factory/factory1_color_tga_eaf01d18.vtex_c"
+	destpath "materials/models/props_factory/factory1_color_tga_eaf01d18.vtex_c"
+	p4cl "2941218"
+	md5 "F3E0B7E01BEDB31569A65FB78042920C"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/props_factory/factory1_refl_tga_31f83f3d.vtex_c"
+	destpath "materials/models/props_factory/factory1_refl_tga_31f83f3d.vtex_c"
+	p4cl "2941218"
+	md5 "7A7DA1E400799D5921F15749858761FF"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_frame01_color_tga_a27f47b2.vtex_c"
+	destpath "materials/models/npcs/turret/turret_frame01_color_tga_a27f47b2.vtex_c"
+	p4cl "2941218"
+	md5 "78CA903BC0A3648EC6DDE1615841E327"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_frame01_refl_tga_80ff8f70.vtex_c"
+	destpath "materials/models/npcs/turret/turret_frame01_refl_tga_80ff8f70.vtex_c"
+	p4cl "2941218"
+	md5 "77F06D0E2809891FBCCE080BB3446961"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_frame02_color_tga_89862237.vtex_c"
+	destpath "materials/models/npcs/turret/turret_frame02_color_tga_89862237.vtex_c"
+	p4cl "2941218"
+	md5 "1C47483151ACB8FB978A3CCA87D6B22B"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_frame02_refl_tga_4ac413a0.vtex_c"
+	destpath "materials/models/npcs/turret/turret_frame02_refl_tga_4ac413a0.vtex_c"
+	p4cl "2941218"
+	md5 "875E37E8FC32FFE1B486A0018939E615"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_eye_color_tga_2f31f6c5.vtex_c"
+	destpath "materials/models/npcs/turret/turret_eye_color_tga_2f31f6c5.vtex_c"
+	p4cl "2941218"
+	md5 "FE8B22814FDF000FC0D0EA9D1CE52D59"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_eye_selfillum_tga_e4303725.vtex_c"
+	destpath "materials/models/npcs/turret/turret_eye_selfillum_tga_e4303725.vtex_c"
+	p4cl "2941218"
+	md5 "E5D053D3F811F452A009E626AF0DEFC3"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_casing_color_tga_b4ca5436.vtex_c"
+	destpath "materials/models/npcs/turret/turret_casing_color_tga_b4ca5436.vtex_c"
+	p4cl "2941218"
+	md5 "DF8E979CA002B58A80BCA0C0806E4CC7"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/npcs/turret/turret_casing_refl_tga_3924d141.vtex_c"
+	destpath "materials/models/npcs/turret/turret_casing_refl_tga_3924d141.vtex_c"
+	p4cl "2941218"
+	md5 "37FB7C0AAD718AE11358E68216AEE121"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/particle/smokesprites0001_color_tga_65ae0a88.vtex_c"
+	destpath "materials/particle/smokesprites0001_color_tga_65ae0a88.vtex_c"
+	p4cl "2941218"
+	md5 "D02E071E672499D22FD420F646AC11F1"
+}
+file
+{
+	srcpath "game/portal2_imported/materials/models/player/chell/chell_hair.vmat_c"
+	destpath "materials/models/player/chell/chell_hair.vmat_c"
+	p4cl "2941218"
+	md5 "314116DAFB2C36AD9228955B00E5258D"
+}

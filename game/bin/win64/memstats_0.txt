@@ -1,0 +1,61 @@
+dlmalloc mspace 0 footprint: 210763776 (max 212074496)
+dlmalloc mspace 1 footprint: 35717120 (max 35717120)
+
+Fixed Page SBH:
+Pool 0 : Size: 16   Allocated: 0       Free: 0     Committed: 46080   CommittedSize: 737280   FreeList: 431  
+Pool 1 : Size: 32   Allocated: 0       Free: 0     Committed: 56320   CommittedSize: 1802240  FreeList: 69   
+Pool 2 : Size: 48   Allocated: 0       Free: 0     Committed: 34782   CommittedSize: 1671168  FreeList: 108  
+Pool 3 : Size: 64   Allocated: 0       Free: 0     Committed: 30464   CommittedSize: 1949696  FreeList: 153  
+Pool 4 : Size: 80   Allocated: 0       Free: 0     Committed: 37536   CommittedSize: 3014656  FreeList: 209  
+Pool 5 : Size: 96   Allocated: 0       Free: 0     Committed: 10370   CommittedSize: 999424   FreeList: 96   
+Pool 6 : Size: 112  Allocated: 0       Free: 0     Committed: 3796    CommittedSize: 425984   FreeList: 114  
+Pool 7 : Size: 128  Allocated: 0       Free: 0     Committed: 4608    CommittedSize: 589824   FreeList: 41   
+Pool 8 : Size: 144  Allocated: 0       Free: 0     Committed: 2938    CommittedSize: 425984   FreeList: 121  
+Pool 9 : Size: 160  Allocated: 0       Free: 0     Committed: 1326    CommittedSize: 212992   FreeList: 8    
+Pool 10: Size: 176  Allocated: 0       Free: 0     Committed: 2790    CommittedSize: 491520   FreeList: 113  
+Pool 11: Size: 192  Allocated: 0       Free: 0     Committed: 3825    CommittedSize: 737280   FreeList: 74   
+Pool 12: Size: 208  Allocated: 0       Free: 0     Committed: 936     CommittedSize: 196608   FreeList: 44   
+Pool 13: Size: 224  Allocated: 0       Free: 0     Committed: 1752    CommittedSize: 393216   FreeList: 158  
+Pool 14: Size: 240  Allocated: 0       Free: 0     Committed: 1020    CommittedSize: 245760   FreeList: 54   
+Pool 15: Size: 256  Allocated: 0       Free: 0     Committed: 1408    CommittedSize: 360448   FreeList: 61   
+Pool 16: Size: 272  Allocated: 0       Free: 0     Committed: 780     CommittedSize: 212992   FreeList: 17   
+Pool 17: Size: 288  Allocated: 0       Free: 0     Committed: 728     CommittedSize: 212992   FreeList: 6    
+Pool 18: Size: 304  Allocated: 0       Free: 0     Committed: 212     CommittedSize: 65536    FreeList: 143  
+Pool 19: Size: 320  Allocated: 0       Free: 0     Committed: 510     CommittedSize: 163840   FreeList: 39   
+Pool 20: Size: 336  Allocated: 0       Free: 0     Committed: 240     CommittedSize: 81920    FreeList: 23   
+Pool 21: Size: 352  Allocated: 0       Free: 0     Committed: 276     CommittedSize: 98304    FreeList: 107  
+Pool 22: Size: 368  Allocated: 0       Free: 0     Committed: 352     CommittedSize: 131072   FreeList: 27   
+Pool 23: Size: 384  Allocated: 0       Free: 0     Committed: 840     CommittedSize: 327680   FreeList: 37   
+Pool 24: Size: 400  Allocated: 0       Free: 0     Committed: 280     CommittedSize: 114688   FreeList: 0    
+Pool 25: Size: 416  Allocated: 0       Free: 0     Committed: 468     CommittedSize: 196608   FreeList: 121  
+Pool 26: Size: 432  Allocated: 0       Free: 0     Committed: 74      CommittedSize: 32768    FreeList: 20   
+Pool 27: Size: 448  Allocated: 0       Free: 0     Committed: 108     CommittedSize: 49152    FreeList: 5    
+Pool 28: Size: 464  Allocated: 0       Free: 0     Committed: 280     CommittedSize: 131072   FreeList: 18   
+Pool 29: Size: 480  Allocated: 0       Free: 0     Committed: 136     CommittedSize: 65536    FreeList: 39   
+Pool 30: Size: 496  Allocated: 0       Free: 0     Committed: 33      CommittedSize: 16384    FreeList: 0    
+Pool 31: Size: 512  Allocated: 0       Free: 0     Committed: 1216    CommittedSize: 622592   FreeList: 5    
+Pool 32: Size: 576  Allocated: 0       Free: 0     Committed: 1652    CommittedSize: 966656   FreeList: 3    
+Pool 33: Size: 640  Allocated: 0       Free: 0     Committed: 375     CommittedSize: 245760   FreeList: 7    
+Pool 34: Size: 704  Allocated: 0       Free: 0     Committed: 161     CommittedSize: 114688   FreeList: 1    
+Pool 35: Size: 768  Allocated: 0       Free: 0     Committed: 483     CommittedSize: 376832   FreeList: 3    
+Pool 36: Size: 896  Allocated: 0       Free: 0     Committed: 1152    CommittedSize: 1048576  FreeList: 3    
+Pool 37: Size: 1024 Allocated: 0       Free: 0     Committed: 960     CommittedSize: 983040   FreeList: 1    
+Pool 38: Size: 1280 Allocated: 0       Free: 0     Committed: 7080    CommittedSize: 9666560  FreeList: 52   
+Pool 39: Size: 1536 Allocated: 0       Free: 0     Committed: 840     CommittedSize: 1376256  FreeList: 5    
+Pool 40: Size: 1792 Allocated: 0       Free: 0     Committed: 531     CommittedSize: 966656   FreeList: 1    
+Pool 41: Size: 2048 Allocated: 0       Free: 0     Committed: 904     CommittedSize: 1851392  FreeList: 3    
+
+Totals (Fixed Page SBH): 
+ TotalSize: 262144 kb ( 16384 16 kb pages )
+ Committed: 33568 kb ( 2098 pages ) 
+ Allocated: 0 kb 
+ Available: 228576 kb ( 228480 kb unallocated, 96 kb in 6 free pages ) 
+ FreeList : 499 kb 
+
+
+Mixed Block Heap Stats:
+Heap#    Cur Alloced    Max Alloced           Free      Trimmable
+----- -------------- -------------- -------------- --------------
+0           205824KB       207104KB         1407KB           32KB
+1            34880KB        34880KB        24486KB        21478KB
+

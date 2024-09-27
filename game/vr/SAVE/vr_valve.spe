@@ -1,0 +1,16 @@
+"persister_entities"
+{
+	"player"
+	{
+		"originX"		"1255.335083"
+		"originY"		"771.949036"
+		"originZ"		"0.031219"
+		"anglesX"		"-9.843750"
+		"anglesY"		"28.874998"
+		"anglesZ"		"0.000000"
+		"values"
+		{
+			"model"		"models/player.vmdl"
+		}
+	}
+}

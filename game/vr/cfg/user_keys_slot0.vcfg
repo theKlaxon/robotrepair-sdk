@@ -1,0 +1,8 @@
+"config"
+{
+	"bindings"
+	{
+		"v"		"noclip"
+		"MOUSE1"		"+attack"
+	}
+}

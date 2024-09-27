@@ -1,0 +1,13 @@
+"persister_entities"
+{
+	"player"
+	{
+		"originX"		"16.000000"
+		"originY"		"-0.906738"
+		"originZ"		"11.384274"
+		"values"
+		{
+			"model"		"models/player.vmdl"
+		}
+	}
+}

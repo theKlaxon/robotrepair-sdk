@@ -1,0 +1,13 @@
+"video.cfg"
+{
+	"VendorID"		"32902"
+	"DeviceID"		"39876"
+	"setting.fullscreen"		"0"
+	"setting.coop_fullscreen"		"0"
+	"setting.nowindowborder"		"0"
+	"setting.mat_vsync"		"0"
+	"setting.fullscreen_min_on_focus_loss"		"1"
+	"setting.defaultres"		"1024"
+	"setting.defaultresheight"		"768"
+	"setting.shaderquality"		"1"
+}

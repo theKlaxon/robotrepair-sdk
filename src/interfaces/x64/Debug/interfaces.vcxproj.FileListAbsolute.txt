@@ -1,0 +1,2 @@
+E:\Source2\deskjob-sdk\src\lib\public\interfaces.pdb
+E:\Source2\deskjob-sdk\src\interfaces\x64\Debug\interfaces.pdb

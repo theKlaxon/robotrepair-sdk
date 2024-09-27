@@ -1,0 +1,1091 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+cl : command line  warning D9030: '/Yc' is incompatible with multiprocessing; ignoring /MP switch
+  source2_client.cpp
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\platform.h(49,1): warning C4005: '_getcwd': macro redefinition
+  (compiling source file 'source2_client.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(311,1):
+  see previous definition of '_getcwd'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\interfaces\interfaces.h(153,28): warning C4091: 'extern ': ignored on left of 'ISource2Client' when no variable is declared
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\interfaces\interfaces.h(154,34): warning C4091: 'extern ': ignored on left of 'ISource2ClientConfig' when no variable is declared
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\interfaces\interfaces.h(155,26): warning C4091: 'extern ': ignored on left of 'IPrediction2' when no variable is declared
+  (compiling source file 'source2_client.cpp')
+  
+E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(55,64): warning C4100: 'pInterfaceName': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(55,43): warning C4100: 'factory': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(61,31): warning C4584: 'CBaseAppSystem<ISource2Client>': base-class 'IAppSystem' is already a base-class of 'ISource2Client'
+  (compiling source file 'source2_client.cpp')
+  E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(42,7):
+  see declaration of 'IAppSystem'
+  E:\theKlaxon\robotrepair-sdk\src\public\game\client\isource2_client.h(12,7):
+  see declaration of 'ISource2Client'
+  E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(61,31):
+  the template instantiation context (the oldest one first) is
+  	E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(14,30):
+  	see reference to class template instantiation 'CBaseAppSystem<ISource2Client>' being compiled
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(20,43): warning C4100: 'pInterfaceName': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(29,64): warning C4100: 'pInterfaceName': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(29,43): warning C4100: 'factory': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(34,60): warning C4100: 'par2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(37,62): warning C4100: 'par3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(37,49): warning C4100: 'par2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(37,36): warning C4100: 'par1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(38,46): warning C4100: 'par2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(38,36): warning C4100: 'par1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(41,99): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(41,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(41,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(41,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(42,94): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(42,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(42,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(42,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(48,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(48,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(48,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(49,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(49,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(52,95): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(52,82): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(52,61): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(52,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(55,84): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(55,64): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(55,45): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(57,56): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(57,43): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(59,59): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(59,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(61,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(61,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(64,101): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(64,86): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(64,66): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(64,46): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(65,152): warning C4100: 'param_7': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(65,136): warning C4100: 'param_6': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(65,116): warning C4100: 'param_5': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(65,96): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(65,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(65,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(65,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(66,180): warning C4100: 'param_8': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(66,160): warning C4100: 'param_7': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(66,140): warning C4100: 'param_6': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(66,120): warning C4100: 'param_5': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(66,100): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(66,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(66,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(66,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(70,59): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(70,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(84,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(84,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(84,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(85,93): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(85,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(85,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(85,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(86,66): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(86,46): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(87,81): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(87,61): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(87,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(91,59): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(91,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(92,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(92,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(93,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(93,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(93,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(95,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(95,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(95,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(99,81): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(99,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(99,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(102,106): warning C4100: 'param_5': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(102,86): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(102,66): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(102,53): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(102,39): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(104,39): warning C4100: 'par1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(106,79): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(106,65): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(106,52): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(106,39): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(108,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(108,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(108,39): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(109,39): warning C4100: 'par1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(117,120): warning C4100: 'param_5': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(117,100): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(117,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(117,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(117,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(121,81): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(121,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(121,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(124,95): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(124,74): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(124,54): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(125,81): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(125,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(125,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(126,115): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(126,101): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(126,82): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(126,54): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(129,119): warning C4100: 'param_5': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(129,99): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(129,79): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(129,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(129,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(130,112): warning C4100: 'param_5': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(130,93): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(130,79): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(130,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(130,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(135,82): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(135,61): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(135,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(136,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(136,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(141,101): warning C4100: 'param_4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(141,81): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(141,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(141,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(143,39): warning C4100: 'par1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(144,46): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(150,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(150,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(160,80): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(160,60): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(160,40): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(162,88): warning C4100: 'param_3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(162,67): warning C4100: 'param_2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.h(162,46): warning C4100: 'param_1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(26,77): warning C4100: 'par3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(26,60): warning C4100: 'par2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(26,43): warning C4100: 'par1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(32,96): warning C4100: 'par4': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(32,77): warning C4100: 'par3': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(32,60): warning C4100: 'par2': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(32,43): warning C4100: 'par1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(33,50): warning C4100: 'par1': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  
+E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(61,31): warning C4584: 'CBaseAppSystem<CSource2ClientConfig>': base-class 'IAppSystem' is already a base-class of 'CSource2ClientConfig'
+  (compiling source file 'source2_client.cpp')
+  E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(42,7):
+  see declaration of 'IAppSystem'
+  E:\theKlaxon\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(11,7):
+  see declaration of 'CSource2ClientConfig'
+  E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(61,31):
+  the template instantiation context (the oldest one first) is
+  	E:\theKlaxon\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(40,35):
+  	see reference to class template instantiation 'CBaseAppSystem<CSource2ClientConfig>' being compiled
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.cpp(22,48): warning C4100: 'factory': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.cpp(33,45): warning C4100: 'factory': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\game\client\source2_client.cpp(42,41): warning C4100: 'par1': unreferenced formal parameter
+E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(70,43): warning C4100: 'pInterfaceName': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(70,43):
+  the template instantiation context (the oldest one first) is
+  	E:\theKlaxon\robotrepair-sdk\src\public\game\client\source2_clientconfig.h(40,35):
+  	see reference to class template instantiation 'CBaseAppSystem<CSource2ClientConfig>' being compiled
+  	E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(70,16):
+  	while compiling class template member function 'void *CBaseAppSystem<CSource2ClientConfig>::QueryInterface(const char *)'
+  
+E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(65,41): warning C4100: 'factory': unreferenced formal parameter
+  (compiling source file 'source2_client.cpp')
+  E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(65,41):
+  the template instantiation context (the oldest one first) is
+  	E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(65,15):
+  	while compiling class template member function 'bool CBaseAppSystem<CSource2ClientConfig>::Connect(CreateInterfaceFn)'
+  
+  prediction2.cpp
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\platform.h(49,1): warning C4005: '_getcwd': macro redefinition
+  (compiling source file 'prediction2.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(311,1):
+  see previous definition of '_getcwd'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\interfaces\interfaces.h(153,28): warning C4091: 'extern ': ignored on left of 'ISource2Client' when no variable is declared
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\interfaces\interfaces.h(154,34): warning C4091: 'extern ': ignored on left of 'ISource2ClientConfig' when no variable is declared
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\public\interfaces\interfaces.h(155,26): warning C4091: 'extern ': ignored on left of 'IPrediction2' when no variable is declared
+  (compiling source file 'prediction2.cpp')
+  
+E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(55,64): warning C4100: 'pInterfaceName': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(55,43): warning C4100: 'factory': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(61,31): warning C4584: 'CBaseAppSystem<IPrediction2>': base-class 'IAppSystem' is already a base-class of 'IPrediction2'
+  (compiling source file 'prediction2.cpp')
+  E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(42,7):
+  see declaration of 'IAppSystem'
+  E:\theKlaxon\robotrepair-sdk\src\public\game\client\isource2_clientprediction.h(7,7):
+  see declaration of 'IPrediction2'
+  E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(61,31):
+  the template instantiation context (the oldest one first) is
+  	E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(4,29):
+  	see reference to class template instantiation 'CBaseAppSystem<IPrediction2>' being compiled
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(14,86): warning C4100: 'outgoing_command': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(14,59): warning C4100: 'incoming_acknowledged': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(14,43): warning C4100: 'validframe': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(14,26): warning C4100: 'startframe': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(15,101): warning C4100: 'current_world_update_packet': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(15,74): warning C4100: 'commands_acknowledged': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(15,63): warning C4100: 'pSlot': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(16,54): warning C4100: 'pSlot': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(17,64): warning C4100: 'pSlot': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(18,74): warning C4100: 'commands_acknowledged': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(18,63): warning C4100: 'pSlot': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(21,74): warning C4100: 'org': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(21,53): warning C4100: 'pSlot': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(22,74): warning C4100: 'ang': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(22,53): warning C4100: 'pSlot': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(23,99): warning C4100: 'ang': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(23,80): warning C4100: 'org': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(23,59): warning C4100: 'pSlot': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(24,79): warning C4100: 'ang': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(24,58): warning C4100: 'pSlot': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(25,79): warning C4100: 'ang': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(25,58): warning C4100: 'pSlot': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(32,69): warning C4100: 'frametime': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(32,53): warning C4100: 'pPlayer': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(33,96): warning C4100: 'pMoveHelper': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(33,71): warning C4100: 'pCmd': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(33,46): warning C4100: 'pPlayer': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(34,125): warning C4100: 'pMoveData': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(34,95): warning C4100: 'pMoveHelper': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(34,70): warning C4100: 'pCmd': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(34,45): warning C4100: 'pPlayer': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(35,94): warning C4100: 'move': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(35,71): warning C4100: 'pCmd': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(35,46): warning C4100: 'pPlayer': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(37,90): warning C4100: 'commands_acknowledged': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(37,77): warning C4100: 'pPlayer': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(37,50): warning C4100: 'pSlot': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(38,133): warning C4100: 'outgoing_command': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(38,106): warning C4100: 'incoming_acknowledged': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(38,89): warning C4100: 'bValidFrame': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(38,59): warning C4100: 'bReceivedNewWorldUpdate': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(38,47): warning C4100: 'pSlot': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  
+E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(70,43): warning C4100: 'pInterfaceName': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(70,43):
+  the template instantiation context (the oldest one first) is
+  	E:\theKlaxon\robotrepair-sdk\src\game\client\prediction2.h(4,29):
+  	see reference to class template instantiation 'CBaseAppSystem<IPrediction2>' being compiled
+  	E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(70,16):
+  	while compiling class template member function 'void *CBaseAppSystem<IPrediction2>::QueryInterface(const char *)'
+  
+E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(65,41): warning C4100: 'factory': unreferenced formal parameter
+  (compiling source file 'prediction2.cpp')
+  E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(65,41):
+  the template instantiation context (the oldest one first) is
+  	E:\Source2\robotrepair-sdk\src\public\appframework\iappframework.h(65,15):
+  	while compiling class template member function 'bool CBaseAppSystem<IPrediction2>::Connect(CreateInterfaceFn)'
+  
+  cbase.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  memoverride.cpp
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\platform.h(49,1): warning C4005: '_getcwd': macro redefinition
+  (compiling source file '../../public/tier0/memoverride.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(311,1):
+  see previous definition of '_getcwd'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\dbg.h(205,1): warning C4005: 'Assert': macro redefinition
+  (compiling source file '../../public/tier0/memoverride.cpp')
+  E:\theKlaxon\robotrepair-sdk\src\public\tier0\platform.h(53,1):
+  see previous definition of 'Assert'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\dbg.h(208,1): warning C4005: 'AssertMsg': macro redefinition
+  (compiling source file '../../public/tier0/memoverride.cpp')
+  E:\theKlaxon\robotrepair-sdk\src\public\tier0\platform.h(54,1):
+  see previous definition of 'AssertMsg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(92,1): warning C4559: 'malloc': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(91,18): warning C4273: 'malloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(101,15):
+  see previous definition of 'malloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(97,1): warning C4559: 'free': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(96,16): warning C4273: 'free': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(89,14):
+  see previous definition of 'free'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(106,1): warning C4559: 'realloc': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(105,18): warning C4273: 'realloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(126,15):
+  see previous definition of 'realloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(111,1): warning C4559: 'calloc': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(110,18): warning C4273: 'calloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(66,15):
+  see previous definition of 'calloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(128,1): warning C4565: '_malloc_base': redefinition; the symbol was previously declared with __declspec(restrict)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(127,15): warning C4273: '_malloc_base': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(95,15):
+  see previous definition of '_malloc_base'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(146,1): warning C4565: '_realloc_base': redefinition; the symbol was previously declared with __declspec(restrict)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(145,7): warning C4273: '_realloc_base': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(119,15):
+  see previous definition of '_realloc_base'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(157,6): warning C4273: '_free_base': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(84,14):
+  see previous definition of '_free_base'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(166,62): warning C4100: 'nBlockUse': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(166,48): warning C4100: 'nNewSize': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(166,35): warning C4100: 'pMem': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(194,1): warning C4559: '_recalloc': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(193,27): warning C4273: '_recalloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(141,15):
+  see previous definition of '_recalloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(200,8): warning C4273: '_msize_base': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(107,16):
+  see previous definition of '_msize_base'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(205,8): warning C4273: '_msize': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(113,16):
+  see previous definition of '_msize'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(225,15): warning C4273: '_expand': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(78,15):
+  see previous definition of '_expand'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(225,43): warning C4100: 'nSize': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(225,30): warning C4100: 'pMem': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(248,5): warning C4273: '_heapchk': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\malloc.h(71,45):
+  see previous definition of '_heapchk'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(253,5): warning C4273: '_heapmin': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\malloc.h(64,26):
+  see previous definition of '_heapmin'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(275,13): warning C4273: '_heapwalk': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\malloc.h(67,30):
+  see previous definition of '_heapwalk'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(341,47): warning C4100: 'nBlockUse': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(360,50): warning C4100: 'nBlockUse': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(421,49): warning C4100: 'nFlag': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(428,15): warning C4273: '_malloc_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(423,42):
+  see previous definition of '_malloc_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(443,15): warning C4273: '_calloc_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(400,42):
+  see previous definition of '_calloc_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(452,15): warning C4273: '_realloc_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(436,42):
+  see previous definition of '_realloc_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(459,15): warning C4273: '_expand_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(409,42):
+  see previous definition of '_expand_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(460,35): warning C4100: 'nLine': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(460,20): warning C4100: 'pFileName': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(459,61): warning C4100: 'nBlockUse': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(459,47): warning C4100: 'nNewSize': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(459,34): warning C4100: 'pMem': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(466,14): warning C4273: '_free_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(417,27):
+  see previous definition of '_free_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(476,16): warning C4273: '_msize_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(430,29):
+  see previous definition of '_msize_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(476,44): warning C4100: 'nBlockUse': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(503,81): warning C4100: 'align': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(503,68): warning C4100: 'size': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(503,56): warning C4100: 'ptr': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(516,1): warning C4559: '_aligned_malloc': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(515,27): warning C4273: '_aligned_malloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(154,15):
+  see previous definition of '_aligned_malloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(521,1): warning C4559: '_aligned_realloc': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(520,26): warning C4273: '_aligned_realloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(196,15):
+  see previous definition of '_aligned_realloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(526,1): warning C4559: '_aligned_recalloc': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(525,27): warning C4273: '_aligned_recalloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(204,15):
+  see previous definition of '_aligned_recalloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(531,1): warning C4559: '_aligned_free': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(530,24): warning C4273: '_aligned_free': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(148,14):
+  see previous definition of '_aligned_free'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(536,90): warning C4100: 'offset': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(536,76): warning C4100: 'align': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(536,63): warning C4100: 'size': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(542,108): warning C4100: 'offset': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(542,94): warning C4100: 'align': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(542,81): warning C4100: 'size': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(542,64): warning C4100: 'memblock': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(548,109): warning C4100: 'offset': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(548,95): warning C4100: 'align': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(548,82): warning C4100: 'size': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(548,65): warning C4100: 'memblock': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(556,1): warning C4559: '_aligned_offset_malloc': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(555,26): warning C4273: '_aligned_offset_malloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(161,15):
+  see previous definition of '_aligned_offset_malloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(561,1): warning C4559: '_aligned_offset_realloc': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(560,26): warning C4273: '_aligned_offset_realloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(177,15):
+  see previous definition of '_aligned_offset_realloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(566,1): warning C4559: '_aligned_offset_recalloc': redefinition; the function gains __declspec(noalias)
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(565,27): warning C4273: '_aligned_offset_recalloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_malloc.h(186,15):
+  see previous definition of '_aligned_offset_recalloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(585,5): warning C4273: '_CrtDumpMemoryLeaks': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(185,26):
+  see previous definition of '_CrtDumpMemoryLeaks'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(590,18): warning C4273: '_CrtSetDumpClient': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(170,43):
+  see previous definition of '_CrtSetDumpClient'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(590,54): warning C4100: 'dumpClient': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(595,5): warning C4273: '_CrtSetDbgFlag': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(234,26):
+  see previous definition of '_CrtSetDbgFlag'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(605,6): warning C4273: '__p__crtDbgFlag': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(156,32):
+  see previous definition of '__p__crtDbgFlag'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(610,6): warning C4273: '__p__crtBreakAlloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(157,32):
+  see previous definition of '__p__crtBreakAlloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(616,51): warning C4100: 'nBlockUse': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(616,41): warning C4100: 'pMem': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(621,25): warning C4273: '_CrtSetAllocHook': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(164,42):
+  see previous definition of '_CrtSetAllocHook'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(621,59): warning C4100: 'pfnNewHook': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(627,14): warning C4273: '_CrtSetBreakAlloc': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(230,27):
+  see previous definition of '_CrtSetBreakAlloc'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(632,13): warning C4273: '_CrtIsValidHeapPointer': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(196,26):
+  see previous definition of '_CrtIsValidHeapPointer'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(637,13): warning C4273: '_CrtIsValidPointer': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(201,26):
+  see previous definition of '_CrtIsValidPointer'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(642,13): warning C4273: '_CrtCheckMemory': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(176,26):
+  see previous definition of '_CrtCheckMemory'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(648,13): warning C4273: '_CrtIsMemoryBlock': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(187,26):
+  see previous definition of '_CrtIsMemoryBlock'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(649,52): warning C4100: 'pnLine': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(649,35): warning C4100: 'ppFileName': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(649,11): warning C4100: 'plRequestNumber': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(648,63): warning C4100: 'nSize': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(648,44): warning C4100: 'pMem': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(655,13): warning C4273: '_CrtMemDifference': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(211,26):
+  see previous definition of '_CrtMemDifference'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(655,106): warning C4100: 'newState': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(655,75): warning C4100: 'oldState': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(655,46): warning C4100: 'pState': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(661,14): warning C4273: '_CrtMemDumpStatistics': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(221,27):
+  see previous definition of '_CrtMemDumpStatistics'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(661,57): warning C4100: 'pState': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(666,14): warning C4273: '_CrtMemCheckpoint': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(207,27):
+  see previous definition of '_CrtMemCheckpoint'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(672,14): warning C4273: '_CrtMemDumpAllObjectsSince': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(217,27):
+  see previous definition of '_CrtMemDumpAllObjectsSince'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(672,62): warning C4100: 'pState': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(677,14): warning C4273: '_CrtDoForAllClientObjects': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(180,27):
+  see previous definition of '_CrtDoForAllClientObjects'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(677,77): warning C4100: 'pContext': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(677,48): warning C4100: 'pfn': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(688,13): warning C4273: '_CrtSetReportMode': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(659,26):
+  see previous definition of '_CrtSetReportMode'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(693,16): warning C4273: '_CrtSetReportFile': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(654,29):
+  see previous definition of '_CrtSetReportFile'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(698,26): warning C4273: '_CrtSetReportHook': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(673,43):
+  see previous definition of '_CrtSetReportHook'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(703,13): warning C4273: '_CrtDbgReport': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(611,26):
+  see previous definition of '_CrtDbgReport'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(730,52): warning C4100: 'szUserMessage': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(730,26): warning C4100: 'szModule': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(729,88): warning C4100: 'szLine': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(729,64): warning C4100: 'szFile': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(729,38): warning C4100: 'nRptType': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(737,69): warning C4100: 'arglist': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(737,51): warning C4100: 'szFormat': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(737,26): warning C4100: 'szModule': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(736,70): warning C4100: 'nLine': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(736,58): warning C4100: 'szFile': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(736,33): warning C4100: 'nRptType': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(743,13): warning C4273: '_CrtDbgReportW': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(619,26):
+  see previous definition of '_CrtDbgReportW'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(744,51): warning C4100: 'szFormat': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(744,26): warning C4100: 'szModule': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(743,70): warning C4100: 'nLine': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(743,58): warning C4100: 'szFile': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(743,33): warning C4100: 'nRptType': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(757,13): warning C4273: '_CrtSetReportHook2': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(677,30):
+  see previous definition of '_CrtSetReportHook2'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(757,37): warning C4100: 'mode': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(768,47): warning C4100: 'fCheckCount': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(780,27): warning C4273: '_aligned_offset_recalloc_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(370,42):
+  see previous definition of '_aligned_offset_recalloc_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(780,155): warning C4100: 'line_n': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(780,143): warning C4100: 'f_name': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(780,122): warning C4100: 'offset': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(780,108): warning C4100: 'align': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(788,27): warning C4273: '_aligned_recalloc_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(390,42):
+  see previous definition of '_aligned_recalloc_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(793,27): warning C4273: '_recalloc_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(445,42):
+  see previous definition of '_recalloc_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(793,91): warning C4100: 'nBlockUse': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(798,26): warning C4273: '_CrtGetReportHook': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(668,43):
+  see previous definition of '_CrtGetReportHook'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(804,13): warning C4273: '_CrtReportBlockType': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(226,26):
+  see previous definition of '_CrtReportBlockType'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(804,46): warning C4100: 'pUserData': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(831,52): warning C4100: 'size': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(838,91): warning C4100: 'nLine': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(838,75): warning C4100: 'szFileName': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(838,51): warning C4100: 'nBlockUse': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(846,20): warning C4100: 'fRealloc': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(846,9): warning C4100: 'nLine': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(845,102): warning C4100: 'szFileName': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(845,79): warning C4100: 'nBlockUse': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(845,64): warning C4100: 'pnNewSize': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(845,44): warning C4100: 'pUserData': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(866,54): warning C4100: 'nBlockUse': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(871,25): warning C4273: '_CrtGetAllocHook': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(162,42):
+  see previous definition of '_CrtGetAllocHook'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(877,81): warning C4100: 'nSize': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(877,66): warning C4100: 'bCheck': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(877,48): warning C4100: 'pb': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(884,26): warning C4273: '_CrtGetDumpClient': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(168,43):
+  see previous definition of '_CrtGetDumpClient'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(891,82): warning C4100: 'pHead': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(891,51): warning C4100: 'plocinfo': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(895,92): warning C4100: 'plocinfo': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(895,75): warning C4100: 'state': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(899,16): warning C4273: '_aligned_malloc_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(337,42):
+  see previous definition of '_aligned_malloc_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(899,89): warning C4100: 'line_n': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(899,77): warning C4100: 'f_name': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(904,16): warning C4273: '_aligned_realloc_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(381,42):
+  see previous definition of '_aligned_realloc_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(905,41): warning C4100: 'line_n': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(905,29): warning C4100: 'f_name': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(910,16): warning C4273: '_aligned_offset_malloc_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(351,42):
+  see previous definition of '_aligned_offset_malloc_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(911,40): warning C4100: 'line_n': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(911,28): warning C4100: 'f_name': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(916,16): warning C4273: '_aligned_offset_realloc_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(360,42):
+  see previous definition of '_aligned_offset_realloc_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(917,58): warning C4100: 'line_n': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(917,46): warning C4100: 'f_name': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(922,14): warning C4273: '_aligned_free_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(332,27):
+  see previous definition of '_aligned_free_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(927,16): warning C4273: '_CrtSetDebugFillThreshold': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(648,29):
+  see previous definition of '_CrtSetDebugFillThreshold'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(927,50): warning C4100: '_NewDebugFillThreshold': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(936,16): warning C4273: '_strdup': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(148,38):
+  see previous definition of '_strdup'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(938,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(995,19): warning C4273: '_wcsdup_dbg': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(517,45):
+  see previous definition of '_wcsdup_dbg'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(995,101): warning C4100: 'nLine': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(995,85): warning C4100: 'szFileName': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(995,61): warning C4100: 'nBlockUse': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(995,49): warning C4100: 'string': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(1001,19): warning C4273: '_wcsdup': inconsistent dll linkage
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_wstring.h(83,41):
+  see previous definition of '_wcsdup'
+  
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(1001,45): warning C4100: 'string': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(1288,29): warning C4100: 'plocinfo': unreferenced formal parameter
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(845,23): warning C4505: 'realloc_help': unreferenced function with internal linkage has been removed
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(877,20): warning C4505: 'CheckBytes': unreferenced function with internal linkage has been removed
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(891,21): warning C4505: '_printMemBlockData': unreferenced function with internal linkage has been removed
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(895,21): warning C4505: '_CrtMemDumpAllObjectsSince_stat': unreferenced function with internal linkage has been removed
+E:\theKlaxon\robotrepair-sdk\src\public\tier0\memoverride.cpp(614,1): warning C4717: '__p__crtBreakAlloc': recursive on all control paths, function will cause runtime stack overflow
+     Creating library ..\..\..\game\vr\bin\win64\client.lib and object ..\..\..\game\vr\bin\win64\client.exp
+  client.vcxproj -> E:\theKlaxon\robotrepair-sdk\game\vr\bin\win64\client.dll
