@@ -31,3 +31,12 @@
 *.out
 *.app
 /game/vr/models/personal/tristan/materials
+game/vr/shaders/vfx/vr_standard_pc_50_vs.vcs
+game/vr/shaders/vfx/vr_standard_pc_50_ps.vcs
+game/vr/shaders/vfx/generic_pcgl_41_vs.vcs
+game/vr/shaders/vfx/generic_pcgl_41_ps.vcs
+game/core/shaders/vfx/vr_standard_pc_50_vs.vcs
+game/core/shaders/vfx/vr_standard_pc_50_ps.vcs
+game/core/shaders/vfx/vr_standard_pc_50_gs.vcs
+game/core/shaders/vfx/generic_pcgl_41_vs.vcs
+game/core/shaders/vfx/generic_pcgl_41_ps.vcs
